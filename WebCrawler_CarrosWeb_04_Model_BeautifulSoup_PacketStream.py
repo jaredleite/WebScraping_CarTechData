@@ -6,26 +6,26 @@ from time import sleep
 
 from bs4 import BeautifulSoup
 import requests
-from MyKeys import My_Keys
+from MyKeys import My_Keys  # My own keys
 
+# My own keys
 my_keys = My_Keys()
 
+
+# use youur keys here
 http_proxy = my_keys.PacketStream
 https_proxy = my_keys.PacketStream
-#url = "https://ipv4.icanhazip.com"
 
 proxyDict = {
     "http": http_proxy,
     "https": https_proxy,
 }
 
-#r = requests.get(url, proxies=proxyDict)
-
-
+# update frequently
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
 
-
+# test link lists length
 tab_lv01_brands = os.getcwd() + '\CARROSWEB_TAB_LV01_BRANDS.csv'
 tab_lv02_familys = os.getcwd() + '\CARROSWEB_TAB_LV02_FAMILY.csv'
 tab_lv03_years = os.getcwd() + '\CARROSWEB_TAB_LV03_YEARS.csv'
@@ -65,28 +65,19 @@ def Get_Texto_Link(table):
     global brand
 
     for element in elements:
-        # textos.append(element.get_text())
         aux = f'{element.get("title")}'
 
         if aux.find(brand) != -1:
             aux = aux[(len(brand)+1):]
 
-        #textos.append(aux[(aux.find(' ')+1):len(aux)])
         textos.append(aux)
-        # print(f'Texto: {element.get_text()}')
-        # links.append(element['href'])
         links.append('https://www.carrosnaweb.com.br/' + element.get('href'))
-        # print(f'Link: {element["href"][0]}')
-
-    # print(textos)
-    # print(links)
 
     textos_final = []
     links_final = []
 
     for i, t in enumerate(textos):
         if t != '' and t != None and t != 'None':
-            # textos_final.append(t.split('\n')[3])
             textos_final.append(t)
             links_final.append(links[i])
 
@@ -111,7 +102,6 @@ while list_search != []:
     link = df.loc[index, 'Link_Years']
     print(f'{brand} {family} {year}')
 
-    #r = requests.get(link, headers=headers, proxies=proxyDict)
     flag_try = True
 
     while flag_try:
@@ -128,15 +118,11 @@ while list_search != []:
     soup = BeautifulSoup(r.content, 'html.parser')
 
     table_Model = soup.html.body.find_all('table')[2].find_all('tr')[
-        2].find_all('td')[2]  # .table
-    # print(table_Model)
-
-    # table_Model = navegador.find_element(
-    #   By.XPATH, '/html/body/table[3]/tbody/tr[3]/td[3]/table')
+        2].find_all('td')[2]
     models, models_Link = Get_Texto_Link(table_Model)
 
     for i, m in enumerate(models):
-        # ------------------------------------------------------------------------------------continua daqui
+
         with open(tab_lv04_models, 'a', newline='', encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow([brand, family, year, m, models_Link[i], 'False'])
