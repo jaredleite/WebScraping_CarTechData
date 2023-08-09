@@ -1,17 +1,13 @@
 import os
-import pandas as pd
+from time import sleep
 import random
 import csv
-from time import sleep
-
 from bs4 import BeautifulSoup
 import requests
-
-from Timer import Timer
+import pandas as pd
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}
-
 
 tab_lv01_brands = os.getcwd() + '\CARROSWEB_TAB_LV01_BRANDS.csv'
 tab_lv02_familys = os.getcwd() + '\CARROSWEB_TAB_LV02_FAMILY.csv'
@@ -62,7 +58,8 @@ def Get_Texto_Link(table):
         textos.append(aux)
         # print(f'Texto: {element.get_text()}')
         # links.append(element['href'])
-        links.append('https://www.carrosnaweb.com.br/' + element.get('href'))
+        links.append('https://www.carrosnaweb.com.br/' +
+                     element.get('href'))
         # print(f'Link: {element["href"][0]}')
 
     # print(textos)
@@ -88,7 +85,6 @@ df_temp = df[[not elem for elem in df['download_flag']]]
 list_search = [i for i in df_temp.index]
 random.shuffle(list_search)
 
-
 while list_search != []:
     index = list_search.pop()
     print(f'Faltam {len(list_search)} links\n')
@@ -99,6 +95,7 @@ while list_search != []:
     print(f'{brand} {family} {year}')
 
     r = requests.get(link, headers=headers)
+    status_code = r.status_code
     sleep(5)
     soup = BeautifulSoup(r.content, 'html.parser')
 
@@ -114,7 +111,8 @@ while list_search != []:
         # ------------------------------------------------------------------------------------continua daqui
         with open(tab_lv04_models, 'a', newline='', encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow([brand, family, year, m, models_Link[i], 'False'])
+            writer.writerow(
+                [brand, family, year, m, models_Link[i], 'False'])
             csvfile.close()
 
     df.loc[index, 'download_flag'] = True
