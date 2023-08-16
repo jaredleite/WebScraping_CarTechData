@@ -1,22 +1,1246 @@
 Brands,Familys,Link,download_flag
-Smart,Fortwo,https://www.fichacompleta.com.br/carros/smart/fortwo/,False
-Delorean,Dmc-12,https://www.fichacompleta.com.br/carros/delorean/dmc-12/,False
-Asia,Rocsta,https://www.fichacompleta.com.br/carros/asia/rocsta/,False
-Asia,Topic,https://www.fichacompleta.com.br/carros/asia/topic/,False
-Asia,Towner,https://www.fichacompleta.com.br/carros/asia/towner/,False
-Rolls-royce,Cullinan,https://www.fichacompleta.com.br/carros/rolls-royce/cullinan/,False
-Rolls-royce,Dawn,https://www.fichacompleta.com.br/carros/rolls-royce/dawn/,False
-Rolls-royce,Ghost,https://www.fichacompleta.com.br/carros/rolls-royce/ghost/,False
-Rolls-royce,Phantom,https://www.fichacompleta.com.br/carros/rolls-royce/phantom/,False
-Rolls-royce,Wraith,https://www.fichacompleta.com.br/carros/rolls-royce/wraith/,False
-Cross Lander,Cl 244,https://www.fichacompleta.com.br/carros/cross-lander/cl-244/,False
-Engesa,4,https://www.fichacompleta.com.br/carros/engesa/4/,False
-Brm,M-11,https://www.fichacompleta.com.br/carros/brm/m-11/,False
-Daihatsu,Applause,https://www.fichacompleta.com.br/carros/daihatsu/applause/,False
-Daihatsu,Charade,https://www.fichacompleta.com.br/carros/daihatsu/charade/,False
-Daihatsu,Charade Sedan,https://www.fichacompleta.com.br/carros/daihatsu/charade-sedan/,False
-Daihatsu,Cuore,https://www.fichacompleta.com.br/carros/daihatsu/cuore/,False
-Daihatsu,Feroza,https://www.fichacompleta.com.br/carros/daihatsu/feroza/,False
-Daihatsu,Gran Move,https://www.fichacompleta.com.br/carros/daihatsu/gran-move/,False
-Daihatsu,Terios,https://www.fichacompleta.com.br/carros/daihatsu/terios/,False
-Tac,Stark,https://www.fichacompleta.com.br/carros/tac/stark/,False
+Smart,Fortwo,https://www.fichacompleta.com.br/carros/smart/fortwo/,True
+Delorean,Dmc-12,https://www.fichacompleta.com.br/carros/delorean/dmc-12/,True
+Asia,Rocsta,https://www.fichacompleta.com.br/carros/asia/rocsta/,True
+Asia,Topic,https://www.fichacompleta.com.br/carros/asia/topic/,True
+Asia,Towner,https://www.fichacompleta.com.br/carros/asia/towner/,True
+Rolls-royce,Cullinan,https://www.fichacompleta.com.br/carros/rolls-royce/cullinan/,True
+Rolls-royce,Dawn,https://www.fichacompleta.com.br/carros/rolls-royce/dawn/,True
+Rolls-royce,Ghost,https://www.fichacompleta.com.br/carros/rolls-royce/ghost/,True
+Rolls-royce,Phantom,https://www.fichacompleta.com.br/carros/rolls-royce/phantom/,True
+Rolls-royce,Wraith,https://www.fichacompleta.com.br/carros/rolls-royce/wraith/,True
+Cross Lander,Cl 244,https://www.fichacompleta.com.br/carros/cross-lander/cl-244/,True
+Engesa,4,https://www.fichacompleta.com.br/carros/engesa/4/,True
+Brm,M-11,https://www.fichacompleta.com.br/carros/brm/m-11/,True
+Daihatsu,Applause,https://www.fichacompleta.com.br/carros/daihatsu/applause/,True
+Daihatsu,Charade,https://www.fichacompleta.com.br/carros/daihatsu/charade/,True
+Daihatsu,Charade Sedan,https://www.fichacompleta.com.br/carros/daihatsu/charade-sedan/,True
+Daihatsu,Cuore,https://www.fichacompleta.com.br/carros/daihatsu/cuore/,True
+Daihatsu,Feroza,https://www.fichacompleta.com.br/carros/daihatsu/feroza/,True
+Daihatsu,Gran Move,https://www.fichacompleta.com.br/carros/daihatsu/gran-move/,True
+Daihatsu,Terios,https://www.fichacompleta.com.br/carros/daihatsu/terios/,True
+Tac,Stark,https://www.fichacompleta.com.br/carros/tac/stark/,True
+Changan,Ministar,https://www.fichacompleta.com.br/carros/changan/ministar/,True
+Hafei,Towner,https://www.fichacompleta.com.br/carros/hafei/towner/,True
+Jeep,Cherokee,https://www.fichacompleta.com.br/carros/jeep/cherokee/,True
+Jeep,Commander,https://www.fichacompleta.com.br/carros/jeep/commander/,True
+Jeep,Compass,https://www.fichacompleta.com.br/carros/jeep/compass/,True
+Jeep,Gladiator,https://www.fichacompleta.com.br/carros/jeep/gladiator/,True
+Jeep,Grand Cherokee,https://www.fichacompleta.com.br/carros/jeep/grand-cherokee/,True
+Jeep,Renegade,https://www.fichacompleta.com.br/carros/jeep/renegade/,True
+Jeep,Wrangler,https://www.fichacompleta.com.br/carros/jeep/wrangler/,True
+Subaru,Forester,https://www.fichacompleta.com.br/carros/subaru/forester/,True
+Subaru,Impreza,https://www.fichacompleta.com.br/carros/subaru/impreza/,True
+Subaru,Impreza Hatch,https://www.fichacompleta.com.br/carros/subaru/impreza-hatch/,True
+Subaru,Impreza Sw,https://www.fichacompleta.com.br/carros/subaru/impreza-sw/,True
+Subaru,Legacy,https://www.fichacompleta.com.br/carros/subaru/legacy/,True
+Subaru,Legacy Tw,https://www.fichacompleta.com.br/carros/subaru/legacy-tw/,True
+Subaru,Outback,https://www.fichacompleta.com.br/carros/subaru/outback/,True
+Subaru,Svx,https://www.fichacompleta.com.br/carros/subaru/svx/,True
+Subaru,Tribeca,https://www.fichacompleta.com.br/carros/subaru/tribeca/,True
+Subaru,Vivio,https://www.fichacompleta.com.br/carros/subaru/vivio/,True
+Subaru,Wrx,https://www.fichacompleta.com.br/carros/subaru/wrx/,True
+Subaru,Xv,https://www.fichacompleta.com.br/carros/subaru/xv/,True
+Mazda,626,https://www.fichacompleta.com.br/carros/mazda/626/,True
+Mazda,929,https://www.fichacompleta.com.br/carros/mazda/929/,True
+Mazda,B-2500,https://www.fichacompleta.com.br/carros/mazda/b-2500/,True
+Mazda,Mpv,https://www.fichacompleta.com.br/carros/mazda/mpv/,True
+Mazda,Mx-3,https://www.fichacompleta.com.br/carros/mazda/mx-3/,True
+Mazda,Mx-5,https://www.fichacompleta.com.br/carros/mazda/mx-5/,True
+Mazda,Protegé,https://www.fichacompleta.com.br/carros/mazda/protege/,True
+Mazda,Rx-7,https://www.fichacompleta.com.br/carros/mazda/rx-7/,True
+Envemo,Camper,https://www.fichacompleta.com.br/carros/envemo/camper/,True
+Dodge,1800,https://www.fichacompleta.com.br/carros/dodge/1800/,True
+Dodge,Challenger,https://www.fichacompleta.com.br/carros/dodge/challenger/,True
+Dodge,Charger,https://www.fichacompleta.com.br/carros/dodge/charger/,True
+Dodge,D-100,https://www.fichacompleta.com.br/carros/dodge/d-100/,True
+Dodge,Dakota,https://www.fichacompleta.com.br/carros/dodge/dakota/,True
+Dodge,Dart,https://www.fichacompleta.com.br/carros/dodge/dart/,True
+Dodge,Durango,https://www.fichacompleta.com.br/carros/dodge/durango/,True
+Dodge,Journey,https://www.fichacompleta.com.br/carros/dodge/journey/,True
+Dodge,Le Baron,https://www.fichacompleta.com.br/carros/dodge/le-baron/,True
+Dodge,Magnum,https://www.fichacompleta.com.br/carros/dodge/magnum/,True
+Dodge,Polara,https://www.fichacompleta.com.br/carros/dodge/polara/,True
+Dodge,Ram,https://www.fichacompleta.com.br/carros/dodge/ram/,True
+Dodge,Stealth,https://www.fichacompleta.com.br/carros/dodge/stealth/,True
+Dodge,Viper,https://www.fichacompleta.com.br/carros/dodge/viper/,True
+Chery,Arrizo 5,https://www.fichacompleta.com.br/carros/chery/arrizo-5/,True
+Chery,Arrizo 5e,https://www.fichacompleta.com.br/carros/chery/arrizo-5e/,True
+Chery,Arrizo 6,https://www.fichacompleta.com.br/carros/chery/arrizo-6/,True
+Chery,Celer,https://www.fichacompleta.com.br/carros/chery/celer/,True
+Chery,Celer Sedan,https://www.fichacompleta.com.br/carros/chery/celer-sedan/,True
+Chery,Cielo,https://www.fichacompleta.com.br/carros/chery/cielo/,True
+Chery,Cielo Sedan,https://www.fichacompleta.com.br/carros/chery/cielo-sedan/,True
+Chery,Face,https://www.fichacompleta.com.br/carros/chery/face/,True
+Chery,Icar,https://www.fichacompleta.com.br/carros/chery/icar/,True
+Chery,Qq,https://www.fichacompleta.com.br/carros/chery/qq/,True
+Chery,S18,https://www.fichacompleta.com.br/carros/chery/s18/,True
+Chery,Tiggo,https://www.fichacompleta.com.br/carros/chery/tiggo/,True
+Chery,Tiggo 2,https://www.fichacompleta.com.br/carros/chery/tiggo-2/,True
+Chery,Tiggo 3x,https://www.fichacompleta.com.br/carros/chery/tiggo-3x/,True
+Chery,Tiggo 5x,https://www.fichacompleta.com.br/carros/chery/tiggo-5x/,True
+Chery,Tiggo 7,https://www.fichacompleta.com.br/carros/chery/tiggo-7/,True
+Chery,Tiggo 8,https://www.fichacompleta.com.br/carros/chery/tiggo-8/,True
+Farus,Beta,https://www.fichacompleta.com.br/carros/farus/beta/,True
+Farus,Ml 929,https://www.fichacompleta.com.br/carros/farus/ml-929/,True
+Farus,Quadro,https://www.fichacompleta.com.br/carros/farus/quadro/,True
+Farus,Ts,https://www.fichacompleta.com.br/carros/farus/ts/,True
+Hofstetter,Hofstetter,https://www.fichacompleta.com.br/carros/hofstetter/hofstetter/,True
+Alfa Romeo,145,https://www.fichacompleta.com.br/carros/alfa-romeo/145/,True
+Alfa Romeo,147,https://www.fichacompleta.com.br/carros/alfa-romeo/147/,True
+Alfa Romeo,155,https://www.fichacompleta.com.br/carros/alfa-romeo/155/,True
+Alfa Romeo,156,https://www.fichacompleta.com.br/carros/alfa-romeo/156/,True
+Alfa Romeo,156 Sportwagon,https://www.fichacompleta.com.br/carros/alfa-romeo/156-sportwagon/,True
+Alfa Romeo,164,https://www.fichacompleta.com.br/carros/alfa-romeo/164/,True
+Alfa Romeo,166,https://www.fichacompleta.com.br/carros/alfa-romeo/166/,True
+Alfa Romeo,2300,https://www.fichacompleta.com.br/carros/alfa-romeo/2300/,True
+Alfa Romeo,Spider,https://www.fichacompleta.com.br/carros/alfa-romeo/spider/,True
+Bianco,S,https://www.fichacompleta.com.br/carros/bianco/s/,True
+Bianco,Tarpan,https://www.fichacompleta.com.br/carros/bianco/tarpan/,True
+Mercedes-benz,180d,https://www.fichacompleta.com.br/carros/mercedes-benz/180d/,True
+Mercedes-benz,190,https://www.fichacompleta.com.br/carros/mercedes-benz/190/,True
+Mercedes-benz,A200,https://www.fichacompleta.com.br/carros/mercedes-benz/a200/,True
+Mercedes-benz,A200 Sedan,https://www.fichacompleta.com.br/carros/mercedes-benz/a200-sedan/,True
+Mercedes-benz,A250,https://www.fichacompleta.com.br/carros/mercedes-benz/a250/,True
+Mercedes-benz,A35,https://www.fichacompleta.com.br/carros/mercedes-benz/a35/,True
+Mercedes-benz,A35 Sedan,https://www.fichacompleta.com.br/carros/mercedes-benz/a35-sedan/,True
+Mercedes-benz,A45,https://www.fichacompleta.com.br/carros/mercedes-benz/a45/,True
+Mercedes-benz,Amg One,https://www.fichacompleta.com.br/carros/mercedes-benz/amg-one/,True
+Mercedes-benz,B170,https://www.fichacompleta.com.br/carros/mercedes-benz/b170/,True
+Mercedes-benz,B180,https://www.fichacompleta.com.br/carros/mercedes-benz/b180/,True
+Mercedes-benz,B200,https://www.fichacompleta.com.br/carros/mercedes-benz/b200/,True
+Mercedes-benz,C180,https://www.fichacompleta.com.br/carros/mercedes-benz/c180/,True
+Mercedes-benz,C180 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/c180-coupe/,True
+Mercedes-benz,C180 Estate,https://www.fichacompleta.com.br/carros/mercedes-benz/c180-estate/,True
+Mercedes-benz,C180 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/c180-touring/,True
+Mercedes-benz,C200,https://www.fichacompleta.com.br/carros/mercedes-benz/c200/,True
+Mercedes-benz,C200 Sportcoupe,https://www.fichacompleta.com.br/carros/mercedes-benz/c200-sportcoupe/,True
+Mercedes-benz,C200 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/c200-touring/,True
+Mercedes-benz,C220,https://www.fichacompleta.com.br/carros/mercedes-benz/c220/,True
+Mercedes-benz,C230,https://www.fichacompleta.com.br/carros/mercedes-benz/c230/,True
+Mercedes-benz,C230 Sportcoupe,https://www.fichacompleta.com.br/carros/mercedes-benz/c230-sportcoupe/,True
+Mercedes-benz,C230 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/c230-touring/,True
+Mercedes-benz,C240,https://www.fichacompleta.com.br/carros/mercedes-benz/c240/,True
+Mercedes-benz,C250,https://www.fichacompleta.com.br/carros/mercedes-benz/c250/,True
+Mercedes-benz,C250 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/c250-coupe/,True
+Mercedes-benz,C280,https://www.fichacompleta.com.br/carros/mercedes-benz/c280/,True
+Mercedes-benz,C280 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/c280-touring/,True
+Mercedes-benz,C300,https://www.fichacompleta.com.br/carros/mercedes-benz/c300/,True
+Mercedes-benz,C300 Cabriolet,https://www.fichacompleta.com.br/carros/mercedes-benz/c300-cabriolet/,True
+Mercedes-benz,C300 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/c300-coupe/,True
+Mercedes-benz,C300 Estate,https://www.fichacompleta.com.br/carros/mercedes-benz/c300-estate/,True
+Mercedes-benz,C320,https://www.fichacompleta.com.br/carros/mercedes-benz/c320/,True
+Mercedes-benz,C320 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/c320-touring/,True
+Mercedes-benz,C350,https://www.fichacompleta.com.br/carros/mercedes-benz/c350/,True
+Mercedes-benz,C350 Sportcoupe,https://www.fichacompleta.com.br/carros/mercedes-benz/c350-sportcoupe/,True
+Mercedes-benz,C350 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/c350-touring/,True
+Mercedes-benz,C36,https://www.fichacompleta.com.br/carros/mercedes-benz/c36/,True
+Mercedes-benz,C43,https://www.fichacompleta.com.br/carros/mercedes-benz/c43/,True
+Mercedes-benz,C43 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/c43-coupe/,True
+Mercedes-benz,C450,https://www.fichacompleta.com.br/carros/mercedes-benz/c450/,True
+Mercedes-benz,C55,https://www.fichacompleta.com.br/carros/mercedes-benz/c55/,True
+Mercedes-benz,C55 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/c55-touring/,True
+Mercedes-benz,C63,https://www.fichacompleta.com.br/carros/mercedes-benz/c63/,True
+Mercedes-benz,C63 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/c63-coupe/,True
+Mercedes-benz,C63 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/c63-touring/,True
+Mercedes-benz,Cl 500,https://www.fichacompleta.com.br/carros/mercedes-benz/cl-500/,True
+Mercedes-benz,Cl 600,https://www.fichacompleta.com.br/carros/mercedes-benz/cl-600/,True
+Mercedes-benz,Cl 63,https://www.fichacompleta.com.br/carros/mercedes-benz/cl-63/,True
+Mercedes-benz,Cl 65,https://www.fichacompleta.com.br/carros/mercedes-benz/cl-65/,True
+Mercedes-benz,Cla 180,https://www.fichacompleta.com.br/carros/mercedes-benz/cla-180/,True
+Mercedes-benz,Cla 200,https://www.fichacompleta.com.br/carros/mercedes-benz/cla-200/,True
+Mercedes-benz,Cla 250,https://www.fichacompleta.com.br/carros/mercedes-benz/cla-250/,True
+Mercedes-benz,Cla 35,https://www.fichacompleta.com.br/carros/mercedes-benz/cla-35/,True
+Mercedes-benz,Cla 45,https://www.fichacompleta.com.br/carros/mercedes-benz/cla-45/,True
+Mercedes-benz,Classe A,https://www.fichacompleta.com.br/carros/mercedes-benz/classe-a/,True
+Mercedes-benz,Clc,https://www.fichacompleta.com.br/carros/mercedes-benz/clc/,True
+Mercedes-benz,Clk,https://www.fichacompleta.com.br/carros/mercedes-benz/clk/,True
+Mercedes-benz,Clk Cabriolet,https://www.fichacompleta.com.br/carros/mercedes-benz/clk-cabriolet/,True
+Mercedes-benz,Clk Gtr,https://www.fichacompleta.com.br/carros/mercedes-benz/clk-gtr/,True
+Mercedes-benz,Cls,https://www.fichacompleta.com.br/carros/mercedes-benz/cls/,True
+Mercedes-benz,E200,https://www.fichacompleta.com.br/carros/mercedes-benz/e200/,True
+Mercedes-benz,E220,https://www.fichacompleta.com.br/carros/mercedes-benz/e220/,True
+Mercedes-benz,E240,https://www.fichacompleta.com.br/carros/mercedes-benz/e240/,True
+Mercedes-benz,E250,https://www.fichacompleta.com.br/carros/mercedes-benz/e250/,True
+Mercedes-benz,E250 Cabriolet,https://www.fichacompleta.com.br/carros/mercedes-benz/e250-cabriolet/,True
+Mercedes-benz,E250 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/e250-coupe/,True
+Mercedes-benz,E280,https://www.fichacompleta.com.br/carros/mercedes-benz/e280/,True
+Mercedes-benz,E280 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/e280-touring/,True
+Mercedes-benz,E300,https://www.fichacompleta.com.br/carros/mercedes-benz/e300/,True
+Mercedes-benz,E300 Cabriolet,https://www.fichacompleta.com.br/carros/mercedes-benz/e300-cabriolet/,True
+Mercedes-benz,E300 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/e300-coupe/,True
+Mercedes-benz,E320,https://www.fichacompleta.com.br/carros/mercedes-benz/e320/,True
+Mercedes-benz,E320 Cabriolet,https://www.fichacompleta.com.br/carros/mercedes-benz/e320-cabriolet/,True
+Mercedes-benz,E320 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/e320-touring/,True
+Mercedes-benz,E350,https://www.fichacompleta.com.br/carros/mercedes-benz/e350/,True
+Mercedes-benz,E350 Cabriolet,https://www.fichacompleta.com.br/carros/mercedes-benz/e350-cabriolet/,True
+Mercedes-benz,E350 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/e350-coupe/,True
+Mercedes-benz,E350 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/e350-touring/,True
+Mercedes-benz,E400,https://www.fichacompleta.com.br/carros/mercedes-benz/e400/,True
+Mercedes-benz,E400 Cabriolet,https://www.fichacompleta.com.br/carros/mercedes-benz/e400-cabriolet/,True
+Mercedes-benz,E420,https://www.fichacompleta.com.br/carros/mercedes-benz/e420/,True
+Mercedes-benz,E420 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/e420-touring/,True
+Mercedes-benz,E43,https://www.fichacompleta.com.br/carros/mercedes-benz/e43/,True
+Mercedes-benz,E430,https://www.fichacompleta.com.br/carros/mercedes-benz/e430/,True
+Mercedes-benz,E430 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/e430-touring/,True
+Mercedes-benz,E500,https://www.fichacompleta.com.br/carros/mercedes-benz/e500/,True
+Mercedes-benz,E500 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/e500-coupe/,True
+Mercedes-benz,E500 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/e500-touring/,True
+Mercedes-benz,E53,https://www.fichacompleta.com.br/carros/mercedes-benz/e53/,True
+Mercedes-benz,E55,https://www.fichacompleta.com.br/carros/mercedes-benz/e55/,True
+Mercedes-benz,E55 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/e55-touring/,True
+Mercedes-benz,E63,https://www.fichacompleta.com.br/carros/mercedes-benz/e63/,True
+Mercedes-benz,E63 Touring,https://www.fichacompleta.com.br/carros/mercedes-benz/e63-touring/,True
+Mercedes-benz,Eqa,https://www.fichacompleta.com.br/carros/mercedes-benz/eqa/,True
+Mercedes-benz,Eqb,https://www.fichacompleta.com.br/carros/mercedes-benz/eqb/,True
+Mercedes-benz,Eqc,https://www.fichacompleta.com.br/carros/mercedes-benz/eqc/,True
+Mercedes-benz,Eqe,https://www.fichacompleta.com.br/carros/mercedes-benz/eqe/,True
+Mercedes-benz,Eqs,https://www.fichacompleta.com.br/carros/mercedes-benz/eqs/,True
+Mercedes-benz,G55,https://www.fichacompleta.com.br/carros/mercedes-benz/g55/,True
+Mercedes-benz,G63,https://www.fichacompleta.com.br/carros/mercedes-benz/g63/,True
+Mercedes-benz,Gl,https://www.fichacompleta.com.br/carros/mercedes-benz/gl/,True
+Mercedes-benz,Gla 200,https://www.fichacompleta.com.br/carros/mercedes-benz/gla-200/,True
+Mercedes-benz,Gla 250,https://www.fichacompleta.com.br/carros/mercedes-benz/gla-250/,True
+Mercedes-benz,Gla 35,https://www.fichacompleta.com.br/carros/mercedes-benz/gla-35/,True
+Mercedes-benz,Gla 45,https://www.fichacompleta.com.br/carros/mercedes-benz/gla-45/,True
+Mercedes-benz,Glb 200,https://www.fichacompleta.com.br/carros/mercedes-benz/glb-200/,True
+Mercedes-benz,Glb 35,https://www.fichacompleta.com.br/carros/mercedes-benz/glb-35/,True
+Mercedes-benz,Glc,https://www.fichacompleta.com.br/carros/mercedes-benz/glc/,True
+Mercedes-benz,Glc Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/glc-coupe/,True
+Mercedes-benz,Gle,https://www.fichacompleta.com.br/carros/mercedes-benz/gle/,True
+Mercedes-benz,Gle Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/gle-coupe/,True
+Mercedes-benz,Glk,https://www.fichacompleta.com.br/carros/mercedes-benz/glk/,True
+Mercedes-benz,Gls,https://www.fichacompleta.com.br/carros/mercedes-benz/gls/,True
+Mercedes-benz,Gt,https://www.fichacompleta.com.br/carros/mercedes-benz/gt/,True
+Mercedes-benz,Gt 4-door,https://www.fichacompleta.com.br/carros/mercedes-benz/gt-4-door/,True
+Mercedes-benz,Gt Roadster,https://www.fichacompleta.com.br/carros/mercedes-benz/gt-roadster/,True
+Mercedes-benz,Ml,https://www.fichacompleta.com.br/carros/mercedes-benz/ml/,True
+Mercedes-benz,R500,https://www.fichacompleta.com.br/carros/mercedes-benz/r500/,True
+Mercedes-benz,S320,https://www.fichacompleta.com.br/carros/mercedes-benz/s320/,True
+Mercedes-benz,S400,https://www.fichacompleta.com.br/carros/mercedes-benz/s400/,True
+Mercedes-benz,S500,https://www.fichacompleta.com.br/carros/mercedes-benz/s500/,True
+Mercedes-benz,S560,https://www.fichacompleta.com.br/carros/mercedes-benz/s560/,True
+Mercedes-benz,S600,https://www.fichacompleta.com.br/carros/mercedes-benz/s600/,True
+Mercedes-benz,S600 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/s600-coupe/,True
+Mercedes-benz,S63,https://www.fichacompleta.com.br/carros/mercedes-benz/s63/,True
+Mercedes-benz,S63 Cabriolet,https://www.fichacompleta.com.br/carros/mercedes-benz/s63-cabriolet/,True
+Mercedes-benz,S63 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/s63-coupe/,True
+Mercedes-benz,S65,https://www.fichacompleta.com.br/carros/mercedes-benz/s65/,True
+Mercedes-benz,S65 Coupe,https://www.fichacompleta.com.br/carros/mercedes-benz/s65-coupe/,True
+Mercedes-benz,Sl,https://www.fichacompleta.com.br/carros/mercedes-benz/sl/,True
+Mercedes-benz,Slc,https://www.fichacompleta.com.br/carros/mercedes-benz/slc/,True
+Mercedes-benz,Slk,https://www.fichacompleta.com.br/carros/mercedes-benz/slk/,True
+Mercedes-benz,Slr,https://www.fichacompleta.com.br/carros/mercedes-benz/slr/,True
+Mercedes-benz,Sls,https://www.fichacompleta.com.br/carros/mercedes-benz/sls/,True
+Mercedes-benz,Sprinter,https://www.fichacompleta.com.br/carros/mercedes-benz/sprinter/,True
+Mercedes-benz,Vito,https://www.fichacompleta.com.br/carros/mercedes-benz/vito/,True
+Saab,9000,https://www.fichacompleta.com.br/carros/saab/9000/,True
+Maserati,3200 Gt,https://www.fichacompleta.com.br/carros/maserati/3200-gt/,True
+Maserati,Coupe,https://www.fichacompleta.com.br/carros/maserati/coupe/,True
+Maserati,Ghibli,https://www.fichacompleta.com.br/carros/maserati/ghibli/,True
+Maserati,Grancabrio,https://www.fichacompleta.com.br/carros/maserati/grancabrio/,True
+Maserati,Granturismo,https://www.fichacompleta.com.br/carros/maserati/granturismo/,True
+Maserati,Levante,https://www.fichacompleta.com.br/carros/maserati/levante/,True
+Maserati,Mc12,https://www.fichacompleta.com.br/carros/maserati/mc12/,True
+Maserati,Mc20,https://www.fichacompleta.com.br/carros/maserati/mc20/,True
+Maserati,Quattroporte,https://www.fichacompleta.com.br/carros/maserati/quattroporte/,True
+Maserati,Spyder,https://www.fichacompleta.com.br/carros/maserati/spyder/,True
+Agrale,Marruá,https://www.fichacompleta.com.br/carros/agrale/marrua/,True
+Daewoo,Espero,https://www.fichacompleta.com.br/carros/daewoo/espero/,True
+Daewoo,Lanos,https://www.fichacompleta.com.br/carros/daewoo/lanos/,True
+Daewoo,Lanos Hatch,https://www.fichacompleta.com.br/carros/daewoo/lanos-hatch/,True
+Daewoo,Leganza,https://www.fichacompleta.com.br/carros/daewoo/leganza/,True
+Daewoo,Nubira,https://www.fichacompleta.com.br/carros/daewoo/nubira/,True
+Daewoo,Nubira Sw,https://www.fichacompleta.com.br/carros/daewoo/nubira-sw/,True
+Daewoo,Prince,https://www.fichacompleta.com.br/carros/daewoo/prince/,True
+Daewoo,Super Salon,https://www.fichacompleta.com.br/carros/daewoo/super-salon/,True
+Daewoo,Tico,https://www.fichacompleta.com.br/carros/daewoo/tico/,True
+Lexus,Ct200h,https://www.fichacompleta.com.br/carros/lexus/ct200h/,True
+Lexus,Es300,https://www.fichacompleta.com.br/carros/lexus/es300/,True
+Lexus,Es300h,https://www.fichacompleta.com.br/carros/lexus/es300h/,True
+Lexus,Es330,https://www.fichacompleta.com.br/carros/lexus/es330/,True
+Lexus,Es350,https://www.fichacompleta.com.br/carros/lexus/es350/,True
+Lexus,Gs300,https://www.fichacompleta.com.br/carros/lexus/gs300/,True
+Lexus,Is250,https://www.fichacompleta.com.br/carros/lexus/is250/,True
+Lexus,Is300,https://www.fichacompleta.com.br/carros/lexus/is300/,True
+Lexus,Lfa,https://www.fichacompleta.com.br/carros/lexus/lfa/,True
+Lexus,Ls400,https://www.fichacompleta.com.br/carros/lexus/ls400/,True
+Lexus,Ls430,https://www.fichacompleta.com.br/carros/lexus/ls430/,True
+Lexus,Ls460,https://www.fichacompleta.com.br/carros/lexus/ls460/,True
+Lexus,Ls500h,https://www.fichacompleta.com.br/carros/lexus/ls500h/,True
+Lexus,Nx200t,https://www.fichacompleta.com.br/carros/lexus/nx200t/,True
+Lexus,Nx300,https://www.fichacompleta.com.br/carros/lexus/nx300/,True
+Lexus,Nx300h,https://www.fichacompleta.com.br/carros/lexus/nx300h/,True
+Lexus,Nx350h,https://www.fichacompleta.com.br/carros/lexus/nx350h/,True
+Lexus,Rx300,https://www.fichacompleta.com.br/carros/lexus/rx300/,True
+Lexus,Rx350,https://www.fichacompleta.com.br/carros/lexus/rx350/,True
+Lexus,Rx450h,https://www.fichacompleta.com.br/carros/lexus/rx450h/,True
+Lexus,Rx500h,https://www.fichacompleta.com.br/carros/lexus/rx500h/,True
+Lexus,Sc400,https://www.fichacompleta.com.br/carros/lexus/sc400/,True
+Lexus,Ux250h,https://www.fichacompleta.com.br/carros/lexus/ux250h/,True
+Adamo,Crx,https://www.fichacompleta.com.br/carros/adamo/crx/,True
+Adamo,Gtl,https://www.fichacompleta.com.br/carros/adamo/gtl/,True
+Adamo,Gtm,https://www.fichacompleta.com.br/carros/adamo/gtm/,True
+Lafer,Mp,https://www.fichacompleta.com.br/carros/lafer/mp/,True
+Seat,Cordoba,https://www.fichacompleta.com.br/carros/seat/cordoba/,True
+Seat,Cordoba Vario,https://www.fichacompleta.com.br/carros/seat/cordoba-vario/,True
+Seat,Ibiza,https://www.fichacompleta.com.br/carros/seat/ibiza/,True
+Seat,Inca,https://www.fichacompleta.com.br/carros/seat/inca/,True
+Citroen,Aircross,https://www.fichacompleta.com.br/carros/citroen/aircross/,True
+Citroen,Ax,https://www.fichacompleta.com.br/carros/citroen/ax/,True
+Citroen,Berlingo,https://www.fichacompleta.com.br/carros/citroen/berlingo/,True
+Citroen,Bx,https://www.fichacompleta.com.br/carros/citroen/bx/,True
+Citroen,C3,https://www.fichacompleta.com.br/carros/citroen/c3/,True
+Citroen,C3 Picasso,https://www.fichacompleta.com.br/carros/citroen/c3-picasso/,True
+Citroen,C4,https://www.fichacompleta.com.br/carros/citroen/c4/,True
+Citroen,C4 Cactus,https://www.fichacompleta.com.br/carros/citroen/c4-cactus/,True
+Citroen,C4 Lounge,https://www.fichacompleta.com.br/carros/citroen/c4-lounge/,True
+Citroen,C4 Pallas,https://www.fichacompleta.com.br/carros/citroen/c4-pallas/,True
+Citroen,C4 Picasso,https://www.fichacompleta.com.br/carros/citroen/c4-picasso/,True
+Citroen,C5,https://www.fichacompleta.com.br/carros/citroen/c5/,True
+Citroen,C5 Break,https://www.fichacompleta.com.br/carros/citroen/c5-break/,True
+Citroen,C5 Tourer,https://www.fichacompleta.com.br/carros/citroen/c5-tourer/,True
+Citroen,C6,https://www.fichacompleta.com.br/carros/citroen/c6/,True
+Citroen,C8,https://www.fichacompleta.com.br/carros/citroen/c8/,True
+Citroen,Ds3,https://www.fichacompleta.com.br/carros/citroen/ds3/,True
+Citroen,Ds4,https://www.fichacompleta.com.br/carros/citroen/ds4/,True
+Citroen,Ds5,https://www.fichacompleta.com.br/carros/citroen/ds5/,True
+Citroen,E-jumpy,https://www.fichacompleta.com.br/carros/citroen/e-jumpy/,True
+Citroen,Evasion,https://www.fichacompleta.com.br/carros/citroen/evasion/,True
+Citroen,Jumper,https://www.fichacompleta.com.br/carros/citroen/jumper/,True
+Citroen,Jumpy,https://www.fichacompleta.com.br/carros/citroen/jumpy/,True
+Citroen,Xantia,https://www.fichacompleta.com.br/carros/citroen/xantia/,True
+Citroen,Xantia Break,https://www.fichacompleta.com.br/carros/citroen/xantia-break/,True
+Citroen,Xm,https://www.fichacompleta.com.br/carros/citroen/xm/,True
+Citroen,Xm Break,https://www.fichacompleta.com.br/carros/citroen/xm-break/,True
+Citroen,Xsara,https://www.fichacompleta.com.br/carros/citroen/xsara/,True
+Citroen,Xsara Break,https://www.fichacompleta.com.br/carros/citroen/xsara-break/,True
+Citroen,Xsara Picasso,https://www.fichacompleta.com.br/carros/citroen/xsara-picasso/,True
+Citroen,Zx,https://www.fichacompleta.com.br/carros/citroen/zx/,True
+Toyota,Avalon,https://www.fichacompleta.com.br/carros/toyota/avalon/,True
+Toyota,Bandeirante,https://www.fichacompleta.com.br/carros/toyota/bandeirante/,True
+Toyota,Camry,https://www.fichacompleta.com.br/carros/toyota/camry/,True
+Toyota,Camry Wagon,https://www.fichacompleta.com.br/carros/toyota/camry-wagon/,True
+Toyota,Corolla,https://www.fichacompleta.com.br/carros/toyota/corolla/,True
+Toyota,Corolla Cross,https://www.fichacompleta.com.br/carros/toyota/corolla-cross/,True
+Toyota,Corolla Wagon,https://www.fichacompleta.com.br/carros/toyota/corolla-wagon/,True
+Toyota,Corona,https://www.fichacompleta.com.br/carros/toyota/corona/,True
+Toyota,Etios,https://www.fichacompleta.com.br/carros/toyota/etios/,True
+Toyota,Etios Sedan,https://www.fichacompleta.com.br/carros/toyota/etios-sedan/,True
+Toyota,Fielder,https://www.fichacompleta.com.br/carros/toyota/fielder/,True
+Toyota,Fj Cruiser,https://www.fichacompleta.com.br/carros/toyota/fj-cruiser/,True
+Toyota,Hilux,https://www.fichacompleta.com.br/carros/toyota/hilux/,True
+Toyota,Land Cruiser Prado,https://www.fichacompleta.com.br/carros/toyota/land-cruiser-prado/,True
+Toyota,Mr2,https://www.fichacompleta.com.br/carros/toyota/mr2/,True
+Toyota,Paseo,https://www.fichacompleta.com.br/carros/toyota/paseo/,True
+Toyota,Previa,https://www.fichacompleta.com.br/carros/toyota/previa/,True
+Toyota,Prius,https://www.fichacompleta.com.br/carros/toyota/prius/,True
+Toyota,Rav4,https://www.fichacompleta.com.br/carros/toyota/rav4/,True
+Toyota,Sienna,https://www.fichacompleta.com.br/carros/toyota/sienna/,True
+Toyota,Supra,https://www.fichacompleta.com.br/carros/toyota/supra/,True
+Toyota,Sw4,https://www.fichacompleta.com.br/carros/toyota/sw4/,True
+Toyota,Yaris,https://www.fichacompleta.com.br/carros/toyota/yaris/,True
+Toyota,Yaris Sedan,https://www.fichacompleta.com.br/carros/toyota/yaris-sedan/,True
+Mg,550,https://www.fichacompleta.com.br/carros/mg/550/,True
+Mg,6,https://www.fichacompleta.com.br/carros/mg/6/,True
+Shineray,Picape,https://www.fichacompleta.com.br/carros/shineray/picape/,True
+Shineray,Van,https://www.fichacompleta.com.br/carros/shineray/van/,True
+Ssc,Tuatara,https://www.fichacompleta.com.br/carros/ssc/tuatara/,True
+Chrysler,300c,https://www.fichacompleta.com.br/carros/chrysler/300c/,True
+Chrysler,300c Touring,https://www.fichacompleta.com.br/carros/chrysler/300c-touring/,True
+Chrysler,300m,https://www.fichacompleta.com.br/carros/chrysler/300m/,True
+Chrysler,Caravan,https://www.fichacompleta.com.br/carros/chrysler/caravan/,True
+Chrysler,Crossfire,https://www.fichacompleta.com.br/carros/chrysler/crossfire/,True
+Chrysler,Grand Caravan,https://www.fichacompleta.com.br/carros/chrysler/grand-caravan/,True
+Chrysler,Neon,https://www.fichacompleta.com.br/carros/chrysler/neon/,True
+Chrysler,Pacifica,https://www.fichacompleta.com.br/carros/chrysler/pacifica/,True
+Chrysler,Pt Cruiser,https://www.fichacompleta.com.br/carros/chrysler/pt-cruiser/,True
+Chrysler,Pt Cruiser Cabriolet,https://www.fichacompleta.com.br/carros/chrysler/pt-cruiser-cabriolet/,True
+Chrysler,Sebring,https://www.fichacompleta.com.br/carros/chrysler/sebring/,True
+Chrysler,Stratus,https://www.fichacompleta.com.br/carros/chrysler/stratus/,True
+Chrysler,Stratus Cabriolet,https://www.fichacompleta.com.br/carros/chrysler/stratus-cabriolet/,True
+Chrysler,Town Country,https://www.fichacompleta.com.br/carros/chrysler/town-country/,True
+Chrysler,Vision,https://www.fichacompleta.com.br/carros/chrysler/vision/,True
+Hyundai,Accent,https://www.fichacompleta.com.br/carros/hyundai/accent/,True
+Hyundai,Accent Hatch,https://www.fichacompleta.com.br/carros/hyundai/accent-hatch/,True
+Hyundai,Atos Prime,https://www.fichacompleta.com.br/carros/hyundai/atos-prime/,True
+Hyundai,Azera,https://www.fichacompleta.com.br/carros/hyundai/azera/,True
+Hyundai,Coupe,https://www.fichacompleta.com.br/carros/hyundai/coupe/,True
+Hyundai,Creta,https://www.fichacompleta.com.br/carros/hyundai/creta/,True
+Hyundai,Elantra,https://www.fichacompleta.com.br/carros/hyundai/elantra/,True
+Hyundai,Elantra Wagon,https://www.fichacompleta.com.br/carros/hyundai/elantra-wagon/,True
+Hyundai,Equus,https://www.fichacompleta.com.br/carros/hyundai/equus/,True
+Hyundai,Excel,https://www.fichacompleta.com.br/carros/hyundai/excel/,True
+Hyundai,Excel Hatch,https://www.fichacompleta.com.br/carros/hyundai/excel-hatch/,True
+Hyundai,Galloper,https://www.fichacompleta.com.br/carros/hyundai/galloper/,True
+Hyundai,Genesis,https://www.fichacompleta.com.br/carros/hyundai/genesis/,True
+Hyundai,H1 Starex,https://www.fichacompleta.com.br/carros/hyundai/h1-starex/,True
+Hyundai,H100,https://www.fichacompleta.com.br/carros/hyundai/h100/,True
+Hyundai,Hb20,https://www.fichacompleta.com.br/carros/hyundai/hb20/,True
+Hyundai,Hb20s,https://www.fichacompleta.com.br/carros/hyundai/hb20s/,True
+Hyundai,Hb20x,https://www.fichacompleta.com.br/carros/hyundai/hb20x/,True
+Hyundai,Hr,https://www.fichacompleta.com.br/carros/hyundai/hr/,True
+Hyundai,I30,https://www.fichacompleta.com.br/carros/hyundai/i30/,True
+Hyundai,I30 Cw,https://www.fichacompleta.com.br/carros/hyundai/i30-cw/,True
+Hyundai,Ix35,https://www.fichacompleta.com.br/carros/hyundai/ix35/,True
+Hyundai,Kona,https://www.fichacompleta.com.br/carros/hyundai/kona/,True
+Hyundai,Matrix,https://www.fichacompleta.com.br/carros/hyundai/matrix/,True
+Hyundai,Santa Fe,https://www.fichacompleta.com.br/carros/hyundai/santa-fe/,True
+Hyundai,Scoupe,https://www.fichacompleta.com.br/carros/hyundai/scoupe/,True
+Hyundai,Sonata,https://www.fichacompleta.com.br/carros/hyundai/sonata/,True
+Hyundai,Terracan,https://www.fichacompleta.com.br/carros/hyundai/terracan/,True
+Hyundai,Trajet,https://www.fichacompleta.com.br/carros/hyundai/trajet/,True
+Hyundai,Tucson,https://www.fichacompleta.com.br/carros/hyundai/tucson/,True
+Hyundai,Veloster,https://www.fichacompleta.com.br/carros/hyundai/veloster/,True
+Hyundai,Veracruz,https://www.fichacompleta.com.br/carros/hyundai/veracruz/,True
+Peugeot,106,https://www.fichacompleta.com.br/carros/peugeot/106/,True
+Peugeot,2008,https://www.fichacompleta.com.br/carros/peugeot/2008/,True
+Peugeot,205,https://www.fichacompleta.com.br/carros/peugeot/205/,True
+Peugeot,206,https://www.fichacompleta.com.br/carros/peugeot/206/,True
+Peugeot,206 Cabriolet,https://www.fichacompleta.com.br/carros/peugeot/206-cabriolet/,True
+Peugeot,206 Sw,https://www.fichacompleta.com.br/carros/peugeot/206-sw/,True
+Peugeot,207,https://www.fichacompleta.com.br/carros/peugeot/207/,True
+Peugeot,207 Passion,https://www.fichacompleta.com.br/carros/peugeot/207-passion/,True
+Peugeot,207 Sw,https://www.fichacompleta.com.br/carros/peugeot/207-sw/,True
+Peugeot,208,https://www.fichacompleta.com.br/carros/peugeot/208/,True
+Peugeot,3008,https://www.fichacompleta.com.br/carros/peugeot/3008/,True
+Peugeot,306,https://www.fichacompleta.com.br/carros/peugeot/306/,True
+Peugeot,306 Break,https://www.fichacompleta.com.br/carros/peugeot/306-break/,True
+Peugeot,306 Cabriolet,https://www.fichacompleta.com.br/carros/peugeot/306-cabriolet/,True
+Peugeot,306 Sedan,https://www.fichacompleta.com.br/carros/peugeot/306-sedan/,True
+Peugeot,307,https://www.fichacompleta.com.br/carros/peugeot/307/,True
+Peugeot,307 Cabriolet,https://www.fichacompleta.com.br/carros/peugeot/307-cabriolet/,True
+Peugeot,307 Sedan,https://www.fichacompleta.com.br/carros/peugeot/307-sedan/,True
+Peugeot,307 Sw,https://www.fichacompleta.com.br/carros/peugeot/307-sw/,True
+Peugeot,308,https://www.fichacompleta.com.br/carros/peugeot/308/,True
+Peugeot,308 Cabriolet,https://www.fichacompleta.com.br/carros/peugeot/308-cabriolet/,True
+Peugeot,405,https://www.fichacompleta.com.br/carros/peugeot/405/,True
+Peugeot,405 Break,https://www.fichacompleta.com.br/carros/peugeot/405-break/,True
+Peugeot,406,https://www.fichacompleta.com.br/carros/peugeot/406/,True
+Peugeot,406 Break,https://www.fichacompleta.com.br/carros/peugeot/406-break/,True
+Peugeot,406 Coupe,https://www.fichacompleta.com.br/carros/peugeot/406-coupe/,True
+Peugeot,407,https://www.fichacompleta.com.br/carros/peugeot/407/,True
+Peugeot,407 Sw,https://www.fichacompleta.com.br/carros/peugeot/407-sw/,True
+Peugeot,408,https://www.fichacompleta.com.br/carros/peugeot/408/,True
+Peugeot,5008,https://www.fichacompleta.com.br/carros/peugeot/5008/,True
+Peugeot,504,https://www.fichacompleta.com.br/carros/peugeot/504/,True
+Peugeot,508,https://www.fichacompleta.com.br/carros/peugeot/508/,True
+Peugeot,605,https://www.fichacompleta.com.br/carros/peugeot/605/,True
+Peugeot,607,https://www.fichacompleta.com.br/carros/peugeot/607/,True
+Peugeot,806,https://www.fichacompleta.com.br/carros/peugeot/806/,True
+Peugeot,807,https://www.fichacompleta.com.br/carros/peugeot/807/,True
+Peugeot,Boxer,https://www.fichacompleta.com.br/carros/peugeot/boxer/,True
+Peugeot,E-2008,https://www.fichacompleta.com.br/carros/peugeot/e-2008/,True
+Peugeot,E-expert,https://www.fichacompleta.com.br/carros/peugeot/e-expert/,True
+Peugeot,Expert,https://www.fichacompleta.com.br/carros/peugeot/expert/,True
+Peugeot,Hoggar,https://www.fichacompleta.com.br/carros/peugeot/hoggar/,True
+Peugeot,Partner,https://www.fichacompleta.com.br/carros/peugeot/partner/,True
+Peugeot,Partner Rapid,https://www.fichacompleta.com.br/carros/peugeot/partner-rapid/,True
+Peugeot,Rcz,https://www.fichacompleta.com.br/carros/peugeot/rcz/,True
+Mitsubishi,3000 Gt,https://www.fichacompleta.com.br/carros/mitsubishi/3000-gt/,True
+Mitsubishi,Airtrek,https://www.fichacompleta.com.br/carros/mitsubishi/airtrek/,True
+Mitsubishi,Asx,https://www.fichacompleta.com.br/carros/mitsubishi/asx/,True
+Mitsubishi,Colt,https://www.fichacompleta.com.br/carros/mitsubishi/colt/,True
+Mitsubishi,Diamante,https://www.fichacompleta.com.br/carros/mitsubishi/diamante/,True
+Mitsubishi,Eclipse,https://www.fichacompleta.com.br/carros/mitsubishi/eclipse/,True
+Mitsubishi,Eclipse Cross,https://www.fichacompleta.com.br/carros/mitsubishi/eclipse-cross/,True
+Mitsubishi,Expo,https://www.fichacompleta.com.br/carros/mitsubishi/expo/,True
+Mitsubishi,Galant,https://www.fichacompleta.com.br/carros/mitsubishi/galant/,True
+Mitsubishi,Grandis,https://www.fichacompleta.com.br/carros/mitsubishi/grandis/,True
+Mitsubishi,L200,https://www.fichacompleta.com.br/carros/mitsubishi/l200/,True
+Mitsubishi,L300,https://www.fichacompleta.com.br/carros/mitsubishi/l300/,True
+Mitsubishi,Lancer,https://www.fichacompleta.com.br/carros/mitsubishi/lancer/,True
+Mitsubishi,Outlander,https://www.fichacompleta.com.br/carros/mitsubishi/outlander/,True
+Mitsubishi,Outlander Sport,https://www.fichacompleta.com.br/carros/mitsubishi/outlander-sport/,True
+Mitsubishi,Pajero,https://www.fichacompleta.com.br/carros/mitsubishi/pajero/,True
+Mitsubishi,Pajero Dakar,https://www.fichacompleta.com.br/carros/mitsubishi/pajero-dakar/,True
+Mitsubishi,Pajero Full,https://www.fichacompleta.com.br/carros/mitsubishi/pajero-full/,True
+Mitsubishi,Pajero Io,https://www.fichacompleta.com.br/carros/mitsubishi/pajero-io/,True
+Mitsubishi,Pajero Sport,https://www.fichacompleta.com.br/carros/mitsubishi/pajero-sport/,True
+Mitsubishi,Pajero Tr4,https://www.fichacompleta.com.br/carros/mitsubishi/pajero-tr4/,True
+Mitsubishi,Space Wagon,https://www.fichacompleta.com.br/carros/mitsubishi/space-wagon/,True
+Mini,Clubman,https://www.fichacompleta.com.br/carros/mini/clubman/,True
+Mini,Cooper,https://www.fichacompleta.com.br/carros/mini/cooper/,True
+Mini,Cooper Cabrio,https://www.fichacompleta.com.br/carros/mini/cooper-cabrio/,True
+Mini,Cooper Coupe,https://www.fichacompleta.com.br/carros/mini/cooper-coupe/,True
+Mini,Cooper Roadster,https://www.fichacompleta.com.br/carros/mini/cooper-roadster/,True
+Mini,Cooper S E,https://www.fichacompleta.com.br/carros/mini/cooper-s-e/,True
+Mini,Countryman,https://www.fichacompleta.com.br/carros/mini/countryman/,True
+Mini,Paceman,https://www.fichacompleta.com.br/carros/mini/paceman/,True
+Lobini,H1,https://www.fichacompleta.com.br/carros/lobini/h1/,True
+Byd,D1,https://www.fichacompleta.com.br/carros/byd/d1/,True
+Byd,Et3,https://www.fichacompleta.com.br/carros/byd/et3/,True
+Byd,Han,https://www.fichacompleta.com.br/carros/byd/han/,True
+Byd,Song Plus,https://www.fichacompleta.com.br/carros/byd/song-plus/,True
+Byd,Tan,https://www.fichacompleta.com.br/carros/byd/tan/,True
+Byd,Yuan Plus,https://www.fichacompleta.com.br/carros/byd/yuan-plus/,True
+Fiat,147,https://www.fichacompleta.com.br/carros/fiat/147/,True
+Fiat,147 Fiorino,https://www.fichacompleta.com.br/carros/fiat/147-fiorino/,True
+Fiat,147 Pick-up,https://www.fichacompleta.com.br/carros/fiat/147-pick-up/,True
+Fiat,500,https://www.fichacompleta.com.br/carros/fiat/500/,True
+Fiat,Argo,https://www.fichacompleta.com.br/carros/fiat/argo/,True
+Fiat,Brava,https://www.fichacompleta.com.br/carros/fiat/brava/,True
+Fiat,Bravo,https://www.fichacompleta.com.br/carros/fiat/bravo/,True
+Fiat,Coupe,https://www.fichacompleta.com.br/carros/fiat/coupe/,True
+Fiat,Cronos,https://www.fichacompleta.com.br/carros/fiat/cronos/,True
+Fiat,Dardo,https://www.fichacompleta.com.br/carros/fiat/dardo/,True
+Fiat,Doblo,https://www.fichacompleta.com.br/carros/fiat/doblo/,True
+Fiat,Ducato,https://www.fichacompleta.com.br/carros/fiat/ducato/,True
+Fiat,Duna,https://www.fichacompleta.com.br/carros/fiat/duna/,True
+Fiat,E-scudo,https://www.fichacompleta.com.br/carros/fiat/e-scudo/,True
+Fiat,Elba,https://www.fichacompleta.com.br/carros/fiat/elba/,True
+Fiat,Fastback,https://www.fichacompleta.com.br/carros/fiat/fastback/,True
+Fiat,Fiorino,https://www.fichacompleta.com.br/carros/fiat/fiorino/,True
+Fiat,Fiorino Pick-up,https://www.fichacompleta.com.br/carros/fiat/fiorino-pick-up/,True
+Fiat,Freemont,https://www.fichacompleta.com.br/carros/fiat/freemont/,True
+Fiat,Idea,https://www.fichacompleta.com.br/carros/fiat/idea/,True
+Fiat,Linea,https://www.fichacompleta.com.br/carros/fiat/linea/,True
+Fiat,Marea,https://www.fichacompleta.com.br/carros/fiat/marea/,True
+Fiat,Marea Weekend,https://www.fichacompleta.com.br/carros/fiat/marea-weekend/,True
+Fiat,Mobi,https://www.fichacompleta.com.br/carros/fiat/mobi/,True
+Fiat,Oggi,https://www.fichacompleta.com.br/carros/fiat/oggi/,True
+Fiat,Palio,https://www.fichacompleta.com.br/carros/fiat/palio/,True
+Fiat,Palio Weekend,https://www.fichacompleta.com.br/carros/fiat/palio-weekend/,True
+Fiat,Panorama,https://www.fichacompleta.com.br/carros/fiat/panorama/,True
+Fiat,Premio,https://www.fichacompleta.com.br/carros/fiat/premio/,True
+Fiat,Pulse,https://www.fichacompleta.com.br/carros/fiat/pulse/,True
+Fiat,Punto,https://www.fichacompleta.com.br/carros/fiat/punto/,True
+Fiat,Scudo,https://www.fichacompleta.com.br/carros/fiat/scudo/,True
+Fiat,Siena,https://www.fichacompleta.com.br/carros/fiat/siena/,True
+Fiat,Stilo,https://www.fichacompleta.com.br/carros/fiat/stilo/,True
+Fiat,Strada,https://www.fichacompleta.com.br/carros/fiat/strada/,True
+Fiat,Tempra,https://www.fichacompleta.com.br/carros/fiat/tempra/,True
+Fiat,Tempra Sw,https://www.fichacompleta.com.br/carros/fiat/tempra-sw/,True
+Fiat,Tipo,https://www.fichacompleta.com.br/carros/fiat/tipo/,True
+Fiat,Toro,https://www.fichacompleta.com.br/carros/fiat/toro/,True
+Fiat,Uno,https://www.fichacompleta.com.br/carros/fiat/uno/,True
+Suzuki,Baleno,https://www.fichacompleta.com.br/carros/suzuki/baleno/,True
+Suzuki,Baleno Hatch,https://www.fichacompleta.com.br/carros/suzuki/baleno-hatch/,True
+Suzuki,Baleno Wagon,https://www.fichacompleta.com.br/carros/suzuki/baleno-wagon/,True
+Suzuki,Grand Vitara,https://www.fichacompleta.com.br/carros/suzuki/grand-vitara/,True
+Suzuki,Ignis,https://www.fichacompleta.com.br/carros/suzuki/ignis/,True
+Suzuki,Jimny,https://www.fichacompleta.com.br/carros/suzuki/jimny/,True
+Suzuki,Jimny Sierra,https://www.fichacompleta.com.br/carros/suzuki/jimny-sierra/,True
+Suzuki,S-cross,https://www.fichacompleta.com.br/carros/suzuki/s-cross/,True
+Suzuki,Samurai,https://www.fichacompleta.com.br/carros/suzuki/samurai/,True
+Suzuki,Sidekick,https://www.fichacompleta.com.br/carros/suzuki/sidekick/,True
+Suzuki,Super Carry,https://www.fichacompleta.com.br/carros/suzuki/super-carry/,True
+Suzuki,Swift,https://www.fichacompleta.com.br/carros/suzuki/swift/,True
+Suzuki,Swift Cabriolet,https://www.fichacompleta.com.br/carros/suzuki/swift-cabriolet/,True
+Suzuki,Swift Sedan,https://www.fichacompleta.com.br/carros/suzuki/swift-sedan/,True
+Suzuki,Sx4,https://www.fichacompleta.com.br/carros/suzuki/sx4/,True
+Suzuki,Vitara,https://www.fichacompleta.com.br/carros/suzuki/vitara/,True
+Suzuki,Wagon R,https://www.fichacompleta.com.br/carros/suzuki/wagon-r/,True
+Hennessey,Venom,https://www.fichacompleta.com.br/carros/hennessey/venom/,True
+Cadillac,Ats,https://www.fichacompleta.com.br/carros/cadillac/ats/,True
+Cadillac,Cts,https://www.fichacompleta.com.br/carros/cadillac/cts/,True
+Cadillac,Escalade,https://www.fichacompleta.com.br/carros/cadillac/escalade/,True
+Cadillac,Srx,https://www.fichacompleta.com.br/carros/cadillac/srx/,True
+Jpx,Montez,https://www.fichacompleta.com.br/carros/jpx/montez/,True
+Enseada,Mg,https://www.fichacompleta.com.br/carros/enseada/mg/,True
+Nissan,300zx,https://www.fichacompleta.com.br/carros/nissan/300zx/,True
+Nissan,350z,https://www.fichacompleta.com.br/carros/nissan/350z/,True
+Nissan,370z,https://www.fichacompleta.com.br/carros/nissan/370z/,True
+Nissan,370z Roadster,https://www.fichacompleta.com.br/carros/nissan/370z-roadster/,True
+Nissan,Altima,https://www.fichacompleta.com.br/carros/nissan/altima/,True
+Nissan,D21,https://www.fichacompleta.com.br/carros/nissan/d21/,True
+Nissan,Frontier,https://www.fichacompleta.com.br/carros/nissan/frontier/,True
+Nissan,Gt-r,https://www.fichacompleta.com.br/carros/nissan/gt-r/,True
+Nissan,Kicks,https://www.fichacompleta.com.br/carros/nissan/kicks/,True
+Nissan,Leaf,https://www.fichacompleta.com.br/carros/nissan/leaf/,True
+Nissan,Livina,https://www.fichacompleta.com.br/carros/nissan/livina/,True
+Nissan,March,https://www.fichacompleta.com.br/carros/nissan/march/,True
+Nissan,Maxima,https://www.fichacompleta.com.br/carros/nissan/maxima/,True
+Nissan,Murano,https://www.fichacompleta.com.br/carros/nissan/murano/,True
+Nissan,Pathfinder,https://www.fichacompleta.com.br/carros/nissan/pathfinder/,True
+Nissan,Primera,https://www.fichacompleta.com.br/carros/nissan/primera/,True
+Nissan,Quest,https://www.fichacompleta.com.br/carros/nissan/quest/,True
+Nissan,Sentra,https://www.fichacompleta.com.br/carros/nissan/sentra/,True
+Nissan,Terrano,https://www.fichacompleta.com.br/carros/nissan/terrano/,True
+Nissan,Tiida,https://www.fichacompleta.com.br/carros/nissan/tiida/,True
+Nissan,Tiida Sedan,https://www.fichacompleta.com.br/carros/nissan/tiida-sedan/,True
+Nissan,Versa,https://www.fichacompleta.com.br/carros/nissan/versa/,True
+Nissan,X-trail,https://www.fichacompleta.com.br/carros/nissan/x-trail/,True
+Nissan,Xterra,https://www.fichacompleta.com.br/carros/nissan/xterra/,True
+Aston Martin,Db11,https://www.fichacompleta.com.br/carros/aston-martin/db11/,True
+Aston Martin,Db7,https://www.fichacompleta.com.br/carros/aston-martin/db7/,True
+Aston Martin,Db9,https://www.fichacompleta.com.br/carros/aston-martin/db9/,True
+Aston Martin,Dbs,https://www.fichacompleta.com.br/carros/aston-martin/dbs/,True
+Aston Martin,Dbx,https://www.fichacompleta.com.br/carros/aston-martin/dbx/,True
+Aston Martin,Rapide,https://www.fichacompleta.com.br/carros/aston-martin/rapide/,True
+Aston Martin,Vanquish,https://www.fichacompleta.com.br/carros/aston-martin/vanquish/,True
+Aston Martin,Vantage,https://www.fichacompleta.com.br/carros/aston-martin/vantage/,True
+Aston Martin,Virage,https://www.fichacompleta.com.br/carros/aston-martin/virage/,True
+Pagani,Huayra,https://www.fichacompleta.com.br/carros/pagani/huayra/,True
+Pagani,Zonda,https://www.fichacompleta.com.br/carros/pagani/zonda/,True
+Saleen,S7,https://www.fichacompleta.com.br/carros/saleen/s7/,True
+Gmc,Hummer Ev,https://www.fichacompleta.com.br/carros/gmc/hummer-ev/,True
+Gmc,Syclone,https://www.fichacompleta.com.br/carros/gmc/syclone/,True
+Gmc,Typhoon,https://www.fichacompleta.com.br/carros/gmc/typhoon/,True
+Saturn,Sc,https://www.fichacompleta.com.br/carros/saturn/sc/,True
+Saturn,Sl,https://www.fichacompleta.com.br/carros/saturn/sl/,True
+Saturn,Sw,https://www.fichacompleta.com.br/carros/saturn/sw/,True
+Geely,Ec7,https://www.fichacompleta.com.br/carros/geely/ec7/,True
+Geely,Gc2,https://www.fichacompleta.com.br/carros/geely/gc2/,True
+Troller,Pantanal,https://www.fichacompleta.com.br/carros/troller/pantanal/,True
+Troller,Rf,https://www.fichacompleta.com.br/carros/troller/rf/,True
+Troller,T4,https://www.fichacompleta.com.br/carros/troller/t4/,True
+Lamborghini,Aventador,https://www.fichacompleta.com.br/carros/lamborghini/aventador/,True
+Lamborghini,Centenario,https://www.fichacompleta.com.br/carros/lamborghini/centenario/,True
+Lamborghini,Countach,https://www.fichacompleta.com.br/carros/lamborghini/countach/,True
+Lamborghini,Diablo,https://www.fichacompleta.com.br/carros/lamborghini/diablo/,True
+Lamborghini,Gallardo,https://www.fichacompleta.com.br/carros/lamborghini/gallardo/,True
+Lamborghini,Huracan,https://www.fichacompleta.com.br/carros/lamborghini/huracan/,True
+Lamborghini,Lm002,https://www.fichacompleta.com.br/carros/lamborghini/lm002/,True
+Lamborghini,Murcielago,https://www.fichacompleta.com.br/carros/lamborghini/murcielago/,True
+Lamborghini,Reventon,https://www.fichacompleta.com.br/carros/lamborghini/reventon/,True
+Lamborghini,Revuelto,https://www.fichacompleta.com.br/carros/lamborghini/revuelto/,True
+Lamborghini,Sesto Elemento,https://www.fichacompleta.com.br/carros/lamborghini/sesto-elemento/,True
+Lamborghini,Sian,https://www.fichacompleta.com.br/carros/lamborghini/sian/,True
+Lamborghini,Urus,https://www.fichacompleta.com.br/carros/lamborghini/urus/,True
+Lamborghini,Veneno,https://www.fichacompleta.com.br/carros/lamborghini/veneno/,True
+Volvo,460,https://www.fichacompleta.com.br/carros/volvo/460/,True
+Volvo,850,https://www.fichacompleta.com.br/carros/volvo/850/,True
+Volvo,850 Sw,https://www.fichacompleta.com.br/carros/volvo/850-sw/,True
+Volvo,940,https://www.fichacompleta.com.br/carros/volvo/940/,True
+Volvo,940 Sw,https://www.fichacompleta.com.br/carros/volvo/940-sw/,True
+Volvo,960,https://www.fichacompleta.com.br/carros/volvo/960/,True
+Volvo,C30,https://www.fichacompleta.com.br/carros/volvo/c30/,True
+Volvo,C40,https://www.fichacompleta.com.br/carros/volvo/c40/,True
+Volvo,C70,https://www.fichacompleta.com.br/carros/volvo/c70/,True
+Volvo,C70 Cabriolet,https://www.fichacompleta.com.br/carros/volvo/c70-cabriolet/,True
+Volvo,S40,https://www.fichacompleta.com.br/carros/volvo/s40/,True
+Volvo,S60,https://www.fichacompleta.com.br/carros/volvo/s60/,True
+Volvo,S70,https://www.fichacompleta.com.br/carros/volvo/s70/,True
+Volvo,S80,https://www.fichacompleta.com.br/carros/volvo/s80/,True
+Volvo,S90,https://www.fichacompleta.com.br/carros/volvo/s90/,True
+Volvo,V40,https://www.fichacompleta.com.br/carros/volvo/v40/,True
+Volvo,V40 Sw,https://www.fichacompleta.com.br/carros/volvo/v40-sw/,True
+Volvo,V50,https://www.fichacompleta.com.br/carros/volvo/v50/,True
+Volvo,V60,https://www.fichacompleta.com.br/carros/volvo/v60/,True
+Volvo,V70,https://www.fichacompleta.com.br/carros/volvo/v70/,True
+Volvo,Xc40,https://www.fichacompleta.com.br/carros/volvo/xc40/,True
+Volvo,Xc60,https://www.fichacompleta.com.br/carros/volvo/xc60/,True
+Volvo,Xc70,https://www.fichacompleta.com.br/carros/volvo/xc70/,True
+Volvo,Xc90,https://www.fichacompleta.com.br/carros/volvo/xc90/,True
+Tesla,Model 3,https://www.fichacompleta.com.br/carros/tesla/model-3/,True
+Tesla,Model S,https://www.fichacompleta.com.br/carros/tesla/model-s/,True
+Tesla,Model X,https://www.fichacompleta.com.br/carros/tesla/model-x/,True
+Tesla,Model Y,https://www.fichacompleta.com.br/carros/tesla/model-y/,True
+Effa,K01,https://www.fichacompleta.com.br/carros/effa/k01/,True
+Effa,K02,https://www.fichacompleta.com.br/carros/effa/k02/,True
+Effa,M100,https://www.fichacompleta.com.br/carros/effa/m100/,True
+Effa,Plutus,https://www.fichacompleta.com.br/carros/effa/plutus/,True
+Effa,Start Picape,https://www.fichacompleta.com.br/carros/effa/start-picape/,True
+Effa,Start Van,https://www.fichacompleta.com.br/carros/effa/start-van/,True
+Effa,Ulc Picape,https://www.fichacompleta.com.br/carros/effa/ulc-picape/,True
+Effa,Ulc Van,https://www.fichacompleta.com.br/carros/effa/ulc-van/,True
+Effa,V21,https://www.fichacompleta.com.br/carros/effa/v21/,True
+Effa,V22,https://www.fichacompleta.com.br/carros/effa/v22/,True
+Effa,V25,https://www.fichacompleta.com.br/carros/effa/v25/,True
+Lada,Laika,https://www.fichacompleta.com.br/carros/lada/laika/,True
+Lada,Laika Sw,https://www.fichacompleta.com.br/carros/lada/laika-sw/,True
+Lada,Niva,https://www.fichacompleta.com.br/carros/lada/niva/,True
+Lada,Samara,https://www.fichacompleta.com.br/carros/lada/samara/,True
+Cbt,Javali,https://www.fichacompleta.com.br/carros/cbt/javali/,True
+Mahindra,Scorpio Picape,https://www.fichacompleta.com.br/carros/mahindra/scorpio-picape/,True
+Mahindra,Scorpio Suv,https://www.fichacompleta.com.br/carros/mahindra/scorpio-suv/,True
+Audi,100,https://www.fichacompleta.com.br/carros/audi/100/,True
+Audi,100 Avant,https://www.fichacompleta.com.br/carros/audi/100-avant/,True
+Audi,80,https://www.fichacompleta.com.br/carros/audi/80/,True
+Audi,80 Avant,https://www.fichacompleta.com.br/carros/audi/80-avant/,True
+Audi,80 Cabriolet,https://www.fichacompleta.com.br/carros/audi/80-cabriolet/,True
+Audi,A1,https://www.fichacompleta.com.br/carros/audi/a1/,True
+Audi,A3,https://www.fichacompleta.com.br/carros/audi/a3/,True
+Audi,A3 Cabriolet,https://www.fichacompleta.com.br/carros/audi/a3-cabriolet/,True
+Audi,A3 Sedan,https://www.fichacompleta.com.br/carros/audi/a3-sedan/,True
+Audi,A4,https://www.fichacompleta.com.br/carros/audi/a4/,True
+Audi,A4 Avant,https://www.fichacompleta.com.br/carros/audi/a4-avant/,True
+Audi,A4 Cabriolet,https://www.fichacompleta.com.br/carros/audi/a4-cabriolet/,True
+Audi,A5,https://www.fichacompleta.com.br/carros/audi/a5/,True
+Audi,A5 Cabriolet,https://www.fichacompleta.com.br/carros/audi/a5-cabriolet/,True
+Audi,A5 Coupe,https://www.fichacompleta.com.br/carros/audi/a5-coupe/,True
+Audi,A6,https://www.fichacompleta.com.br/carros/audi/a6/,True
+Audi,A6 Avant,https://www.fichacompleta.com.br/carros/audi/a6-avant/,True
+Audi,A7,https://www.fichacompleta.com.br/carros/audi/a7/,True
+Audi,A8,https://www.fichacompleta.com.br/carros/audi/a8/,True
+Audi,E-tron,https://www.fichacompleta.com.br/carros/audi/e-tron/,True
+Audi,E-tron Gt,https://www.fichacompleta.com.br/carros/audi/e-tron-gt/,True
+Audi,E-tron Sportback,https://www.fichacompleta.com.br/carros/audi/e-tron-sportback/,True
+Audi,Q3,https://www.fichacompleta.com.br/carros/audi/q3/,True
+Audi,Q3 Sportback,https://www.fichacompleta.com.br/carros/audi/q3-sportback/,True
+Audi,Q5,https://www.fichacompleta.com.br/carros/audi/q5/,True
+Audi,Q5 Sportback,https://www.fichacompleta.com.br/carros/audi/q5-sportback/,True
+Audi,Q7,https://www.fichacompleta.com.br/carros/audi/q7/,True
+Audi,Q8,https://www.fichacompleta.com.br/carros/audi/q8/,True
+Audi,R8,https://www.fichacompleta.com.br/carros/audi/r8/,True
+Audi,R8 Spyder,https://www.fichacompleta.com.br/carros/audi/r8-spyder/,True
+Audi,Rs 2,https://www.fichacompleta.com.br/carros/audi/rs-2/,True
+Audi,Rs 3,https://www.fichacompleta.com.br/carros/audi/rs-3/,True
+Audi,Rs 3 Sedan,https://www.fichacompleta.com.br/carros/audi/rs-3-sedan/,True
+Audi,Rs 4,https://www.fichacompleta.com.br/carros/audi/rs-4/,True
+Audi,Rs 4 Avant,https://www.fichacompleta.com.br/carros/audi/rs-4-avant/,True
+Audi,Rs 5,https://www.fichacompleta.com.br/carros/audi/rs-5/,True
+Audi,Rs 5 Sportback,https://www.fichacompleta.com.br/carros/audi/rs-5-sportback/,True
+Audi,Rs 6,https://www.fichacompleta.com.br/carros/audi/rs-6/,True
+Audi,Rs 6 Avant,https://www.fichacompleta.com.br/carros/audi/rs-6-avant/,True
+Audi,Rs 7,https://www.fichacompleta.com.br/carros/audi/rs-7/,True
+Audi,Rs Q3,https://www.fichacompleta.com.br/carros/audi/rs-q3/,True
+Audi,Rs Q3 Sportback,https://www.fichacompleta.com.br/carros/audi/rs-q3-sportback/,True
+Audi,Rs Q8,https://www.fichacompleta.com.br/carros/audi/rs-q8/,True
+Audi,S2,https://www.fichacompleta.com.br/carros/audi/s2/,True
+Audi,S2 Avant,https://www.fichacompleta.com.br/carros/audi/s2-avant/,True
+Audi,S2 Coupe,https://www.fichacompleta.com.br/carros/audi/s2-coupe/,True
+Audi,S3,https://www.fichacompleta.com.br/carros/audi/s3/,True
+Audi,S3 Sedan,https://www.fichacompleta.com.br/carros/audi/s3-sedan/,True
+Audi,S4,https://www.fichacompleta.com.br/carros/audi/s4/,True
+Audi,S4 Avant,https://www.fichacompleta.com.br/carros/audi/s4-avant/,True
+Audi,S5,https://www.fichacompleta.com.br/carros/audi/s5/,True
+Audi,S5 Cabriolet,https://www.fichacompleta.com.br/carros/audi/s5-cabriolet/,True
+Audi,S5 Coupe,https://www.fichacompleta.com.br/carros/audi/s5-coupe/,True
+Audi,S6,https://www.fichacompleta.com.br/carros/audi/s6/,True
+Audi,S6 Avant,https://www.fichacompleta.com.br/carros/audi/s6-avant/,True
+Audi,S7,https://www.fichacompleta.com.br/carros/audi/s7/,True
+Audi,S8,https://www.fichacompleta.com.br/carros/audi/s8/,True
+Audi,Sq5,https://www.fichacompleta.com.br/carros/audi/sq5/,True
+Audi,Tt,https://www.fichacompleta.com.br/carros/audi/tt/,True
+Audi,Tt Roadster,https://www.fichacompleta.com.br/carros/audi/tt-roadster/,True
+Audi,Tt Rs,https://www.fichacompleta.com.br/carros/audi/tt-rs/,True
+Audi,Tts,https://www.fichacompleta.com.br/carros/audi/tts/,True
+Honda,Accord,https://www.fichacompleta.com.br/carros/honda/accord/,True
+Honda,Accord Wagon,https://www.fichacompleta.com.br/carros/honda/accord-wagon/,True
+Honda,City,https://www.fichacompleta.com.br/carros/honda/city/,True
+Honda,City Hatch,https://www.fichacompleta.com.br/carros/honda/city-hatch/,True
+Honda,Civic,https://www.fichacompleta.com.br/carros/honda/civic/,True
+Honda,Civic Coupe,https://www.fichacompleta.com.br/carros/honda/civic-coupe/,True
+Honda,Civic Crx,https://www.fichacompleta.com.br/carros/honda/civic-crx/,True
+Honda,Civic Hatch,https://www.fichacompleta.com.br/carros/honda/civic-hatch/,True
+Honda,Cr-v,https://www.fichacompleta.com.br/carros/honda/cr-v/,True
+Honda,Fit,https://www.fichacompleta.com.br/carros/honda/fit/,True
+Honda,Hr-v,https://www.fichacompleta.com.br/carros/honda/hr-v/,True
+Honda,Legend,https://www.fichacompleta.com.br/carros/honda/legend/,True
+Honda,Nsx,https://www.fichacompleta.com.br/carros/honda/nsx/,True
+Honda,Odyssey,https://www.fichacompleta.com.br/carros/honda/odyssey/,True
+Honda,Prelude,https://www.fichacompleta.com.br/carros/honda/prelude/,True
+Honda,Wr-v,https://www.fichacompleta.com.br/carros/honda/wr-v/,True
+Koenigsegg,Agera,https://www.fichacompleta.com.br/carros/koenigsegg/agera/,True
+Koenigsegg,Ccr,https://www.fichacompleta.com.br/carros/koenigsegg/ccr/,True
+Koenigsegg,Ccx,https://www.fichacompleta.com.br/carros/koenigsegg/ccx/,True
+Koenigsegg,Gemera,https://www.fichacompleta.com.br/carros/koenigsegg/gemera/,True
+Koenigsegg,Jesko,https://www.fichacompleta.com.br/carros/koenigsegg/jesko/,True
+Koenigsegg,One:1,https://www.fichacompleta.com.br/carros/koenigsegg/one-1/,True
+Koenigsegg,Regera,https://www.fichacompleta.com.br/carros/koenigsegg/regera/,True
+Volkswagen,1600,https://www.fichacompleta.com.br/carros/volkswagen/1600/,True
+Volkswagen,Amarok,https://www.fichacompleta.com.br/carros/volkswagen/amarok/,True
+Volkswagen,Apollo,https://www.fichacompleta.com.br/carros/volkswagen/apollo/,True
+Volkswagen,Bora,https://www.fichacompleta.com.br/carros/volkswagen/bora/,True
+Volkswagen,Brasilia,https://www.fichacompleta.com.br/carros/volkswagen/brasilia/,True
+Volkswagen,Caravelle,https://www.fichacompleta.com.br/carros/volkswagen/caravelle/,True
+Volkswagen,Cc,https://www.fichacompleta.com.br/carros/volkswagen/cc/,True
+Volkswagen,Corrado,https://www.fichacompleta.com.br/carros/volkswagen/corrado/,True
+Volkswagen,Crossfox,https://www.fichacompleta.com.br/carros/volkswagen/crossfox/,True
+Volkswagen,Delivery,https://www.fichacompleta.com.br/carros/volkswagen/delivery/,True
+Volkswagen,Eos,https://www.fichacompleta.com.br/carros/volkswagen/eos/,True
+Volkswagen,Eurovan,https://www.fichacompleta.com.br/carros/volkswagen/eurovan/,True
+Volkswagen,Fox,https://www.fichacompleta.com.br/carros/volkswagen/fox/,True
+Volkswagen,Fusca,https://www.fichacompleta.com.br/carros/volkswagen/fusca/,True
+Volkswagen,Gol,https://www.fichacompleta.com.br/carros/volkswagen/gol/,True
+Volkswagen,Golf,https://www.fichacompleta.com.br/carros/volkswagen/golf/,True
+Volkswagen,Golf Cabriolet,https://www.fichacompleta.com.br/carros/volkswagen/golf-cabriolet/,True
+Volkswagen,Golf Variant,https://www.fichacompleta.com.br/carros/volkswagen/golf-variant/,True
+Volkswagen,Jetta,https://www.fichacompleta.com.br/carros/volkswagen/jetta/,True
+Volkswagen,Jetta Variant,https://www.fichacompleta.com.br/carros/volkswagen/jetta-variant/,True
+Volkswagen,Karmann-ghia,https://www.fichacompleta.com.br/carros/volkswagen/karmann-ghia/,True
+Volkswagen,Kombi,https://www.fichacompleta.com.br/carros/volkswagen/kombi/,True
+Volkswagen,Logus,https://www.fichacompleta.com.br/carros/volkswagen/logus/,True
+Volkswagen,New Beetle,https://www.fichacompleta.com.br/carros/volkswagen/new-beetle/,True
+Volkswagen,Nivus,https://www.fichacompleta.com.br/carros/volkswagen/nivus/,True
+Volkswagen,Parati,https://www.fichacompleta.com.br/carros/volkswagen/parati/,True
+Volkswagen,Passat,https://www.fichacompleta.com.br/carros/volkswagen/passat/,True
+Volkswagen,Passat Variant,https://www.fichacompleta.com.br/carros/volkswagen/passat-variant/,True
+Volkswagen,Phaeton,https://www.fichacompleta.com.br/carros/volkswagen/phaeton/,True
+Volkswagen,Pointer,https://www.fichacompleta.com.br/carros/volkswagen/pointer/,True
+Volkswagen,Polo,https://www.fichacompleta.com.br/carros/volkswagen/polo/,True
+Volkswagen,Polo Classic,https://www.fichacompleta.com.br/carros/volkswagen/polo-classic/,True
+Volkswagen,Polo Sedan,https://www.fichacompleta.com.br/carros/volkswagen/polo-sedan/,True
+Volkswagen,Quantum,https://www.fichacompleta.com.br/carros/volkswagen/quantum/,True
+Volkswagen,Santana,https://www.fichacompleta.com.br/carros/volkswagen/santana/,True
+Volkswagen,Saveiro,https://www.fichacompleta.com.br/carros/volkswagen/saveiro/,True
+Volkswagen,Sp,https://www.fichacompleta.com.br/carros/volkswagen/sp/,True
+Volkswagen,Space Cross,https://www.fichacompleta.com.br/carros/volkswagen/space-cross/,True
+Volkswagen,Spacefox,https://www.fichacompleta.com.br/carros/volkswagen/spacefox/,True
+Volkswagen,T-cross,https://www.fichacompleta.com.br/carros/volkswagen/t-cross/,True
+Volkswagen,Taos,https://www.fichacompleta.com.br/carros/volkswagen/taos/,True
+Volkswagen,Tiguan,https://www.fichacompleta.com.br/carros/volkswagen/tiguan/,True
+Volkswagen,Tl,https://www.fichacompleta.com.br/carros/volkswagen/tl/,True
+Volkswagen,Touareg,https://www.fichacompleta.com.br/carros/volkswagen/touareg/,True
+Volkswagen,Up,https://www.fichacompleta.com.br/carros/volkswagen/up/,True
+Volkswagen,Van,https://www.fichacompleta.com.br/carros/volkswagen/van/,True
+Volkswagen,Variant,https://www.fichacompleta.com.br/carros/volkswagen/variant/,True
+Volkswagen,Virtus,https://www.fichacompleta.com.br/carros/volkswagen/virtus/,True
+Volkswagen,Voyage,https://www.fichacompleta.com.br/carros/volkswagen/voyage/,True
+Jac,E-j7,https://www.fichacompleta.com.br/carros/jac/e-j7/,True
+Jac,E-jp8,https://www.fichacompleta.com.br/carros/jac/e-jp8/,True
+Jac,E-js1,https://www.fichacompleta.com.br/carros/jac/e-js1/,True
+Jac,E-js4,https://www.fichacompleta.com.br/carros/jac/e-js4/,True
+Jac,E-jv5.5,https://www.fichacompleta.com.br/carros/jac/e-jv5-5/,True
+Jac,E-jv7l,https://www.fichacompleta.com.br/carros/jac/e-jv7l/,True
+Jac,Iev20,https://www.fichacompleta.com.br/carros/jac/iev20/,True
+Jac,Iev330p,https://www.fichacompleta.com.br/carros/jac/iev330p/,True
+Jac,Iev40,https://www.fichacompleta.com.br/carros/jac/iev40/,True
+Jac,Iev60,https://www.fichacompleta.com.br/carros/jac/iev60/,True
+Jac,Iev750v,https://www.fichacompleta.com.br/carros/jac/iev750v/,True
+Jac,J2,https://www.fichacompleta.com.br/carros/jac/j2/,True
+Jac,J3,https://www.fichacompleta.com.br/carros/jac/j3/,True
+Jac,J3 Turin,https://www.fichacompleta.com.br/carros/jac/j3-turin/,True
+Jac,J5,https://www.fichacompleta.com.br/carros/jac/j5/,True
+Jac,J6,https://www.fichacompleta.com.br/carros/jac/j6/,True
+Jac,T40,https://www.fichacompleta.com.br/carros/jac/t40/,True
+Jac,T5,https://www.fichacompleta.com.br/carros/jac/t5/,True
+Jac,T50,https://www.fichacompleta.com.br/carros/jac/t50/,True
+Jac,T6,https://www.fichacompleta.com.br/carros/jac/t6/,True
+Jac,T60,https://www.fichacompleta.com.br/carros/jac/t60/,True
+Jac,T8,https://www.fichacompleta.com.br/carros/jac/t8/,True
+Jac,T80,https://www.fichacompleta.com.br/carros/jac/t80/,True
+Jac,V260,https://www.fichacompleta.com.br/carros/jac/v260/,True
+Plymouth,Grand Voyager,https://www.fichacompleta.com.br/carros/plymouth/grand-voyager/,True
+Mclaren,540c,https://www.fichacompleta.com.br/carros/mclaren/540c/,True
+Mclaren,570s,https://www.fichacompleta.com.br/carros/mclaren/570s/,True
+Mclaren,600lt,https://www.fichacompleta.com.br/carros/mclaren/600lt/,True
+Mclaren,650s,https://www.fichacompleta.com.br/carros/mclaren/650s/,True
+Mclaren,720s,https://www.fichacompleta.com.br/carros/mclaren/720s/,True
+Mclaren,765lt,https://www.fichacompleta.com.br/carros/mclaren/765lt/,True
+Mclaren,Artura,https://www.fichacompleta.com.br/carros/mclaren/artura/,True
+Mclaren,F1,https://www.fichacompleta.com.br/carros/mclaren/f1/,True
+Mclaren,Gt,https://www.fichacompleta.com.br/carros/mclaren/gt/,True
+Mclaren,Mp4-12c,https://www.fichacompleta.com.br/carros/mclaren/mp4-12c/,True
+Mclaren,P1,https://www.fichacompleta.com.br/carros/mclaren/p1/,True
+Mclaren,Senna,https://www.fichacompleta.com.br/carros/mclaren/senna/,True
+Puma,Gt,https://www.fichacompleta.com.br/carros/puma/gt/,True
+Puma,Gtb,https://www.fichacompleta.com.br/carros/puma/gtb/,True
+Puma,Gtc,https://www.fichacompleta.com.br/carros/puma/gtc/,True
+Puma,Gte,https://www.fichacompleta.com.br/carros/puma/gte/,True
+Puma,Gti,https://www.fichacompleta.com.br/carros/puma/gti/,True
+Puma,Gts,https://www.fichacompleta.com.br/carros/puma/gts/,True
+Chamonix,356,https://www.fichacompleta.com.br/carros/chamonix/356/,True
+Chamonix,550,https://www.fichacompleta.com.br/carros/chamonix/550/,True
+Jinbei,Topic,https://www.fichacompleta.com.br/carros/jinbei/topic/,True
+Pontiac,Firebird,https://www.fichacompleta.com.br/carros/pontiac/firebird/,True
+Pontiac,Solstice,https://www.fichacompleta.com.br/carros/pontiac/solstice/,True
+Pontiac,Trans Sport,https://www.fichacompleta.com.br/carros/pontiac/trans-sport/,True
+Land Rover,Defender,https://www.fichacompleta.com.br/carros/land-rover/defender/,True
+Land Rover,Discovery,https://www.fichacompleta.com.br/carros/land-rover/discovery/,True
+Land Rover,Discovery Sport,https://www.fichacompleta.com.br/carros/land-rover/discovery-sport/,True
+Land Rover,Evoque,https://www.fichacompleta.com.br/carros/land-rover/evoque/,True
+Land Rover,Freelander,https://www.fichacompleta.com.br/carros/land-rover/freelander/,True
+Land Rover,Range Rover,https://www.fichacompleta.com.br/carros/land-rover/range-rover/,True
+Land Rover,Range Rover Sport,https://www.fichacompleta.com.br/carros/land-rover/range-rover-sport/,True
+Land Rover,Velar,https://www.fichacompleta.com.br/carros/land-rover/velar/,True
+Caterham,Seven,https://www.fichacompleta.com.br/carros/caterham/seven/,True
+Ssangyong,Actyon,https://www.fichacompleta.com.br/carros/ssangyong/actyon/,True
+Ssangyong,Actyon Sports,https://www.fichacompleta.com.br/carros/ssangyong/actyon-sports/,True
+Ssangyong,Korando,https://www.fichacompleta.com.br/carros/ssangyong/korando/,True
+Ssangyong,Kyron,https://www.fichacompleta.com.br/carros/ssangyong/kyron/,True
+Ssangyong,Musso,https://www.fichacompleta.com.br/carros/ssangyong/musso/,True
+Ssangyong,Rexton,https://www.fichacompleta.com.br/carros/ssangyong/rexton/,True
+Ssangyong,Tivoli,https://www.fichacompleta.com.br/carros/ssangyong/tivoli/,True
+Ssangyong,Xlv,https://www.fichacompleta.com.br/carros/ssangyong/xlv/,True
+Chana,Cargo,https://www.fichacompleta.com.br/carros/chana/cargo/,True
+Chana,Family,https://www.fichacompleta.com.br/carros/chana/family/,True
+Ktm,X-bow,https://www.fichacompleta.com.br/carros/ktm/x-bow/,True
+Iveco,Daily,https://www.fichacompleta.com.br/carros/iveco/daily/,True
+Bugatti,Centodieci,https://www.fichacompleta.com.br/carros/bugatti/centodieci/,True
+Bugatti,Chiron,https://www.fichacompleta.com.br/carros/bugatti/chiron/,True
+Bugatti,Divo,https://www.fichacompleta.com.br/carros/bugatti/divo/,True
+Bugatti,Eb 110,https://www.fichacompleta.com.br/carros/bugatti/eb-110/,True
+Bugatti,Veyron,https://www.fichacompleta.com.br/carros/bugatti/veyron/,True
+Ram,1500,https://www.fichacompleta.com.br/carros/ram/1500/,True
+Ram,2500,https://www.fichacompleta.com.br/carros/ram/2500/,True
+Ram,3500,https://www.fichacompleta.com.br/carros/ram/3500/,True
+Renault,19,https://www.fichacompleta.com.br/carros/renault/19/,True
+Renault,19 Cabriolet,https://www.fichacompleta.com.br/carros/renault/19-cabriolet/,True
+Renault,19 Sedan,https://www.fichacompleta.com.br/carros/renault/19-sedan/,True
+Renault,21,https://www.fichacompleta.com.br/carros/renault/21/,True
+Renault,21 Nevada,https://www.fichacompleta.com.br/carros/renault/21-nevada/,True
+Renault,Captur,https://www.fichacompleta.com.br/carros/renault/captur/,True
+Renault,Clio,https://www.fichacompleta.com.br/carros/renault/clio/,True
+Renault,Clio Sedan,https://www.fichacompleta.com.br/carros/renault/clio-sedan/,True
+Renault,Duster,https://www.fichacompleta.com.br/carros/renault/duster/,True
+Renault,Express,https://www.fichacompleta.com.br/carros/renault/express/,True
+Renault,Fluence,https://www.fichacompleta.com.br/carros/renault/fluence/,True
+Renault,Kangoo,https://www.fichacompleta.com.br/carros/renault/kangoo/,True
+Renault,Kangoo Z.e.,https://www.fichacompleta.com.br/carros/renault/kangoo-z-e/,True
+Renault,Kwid,https://www.fichacompleta.com.br/carros/renault/kwid/,True
+Renault,Kwid E-tech,https://www.fichacompleta.com.br/carros/renault/kwid-e-tech/,True
+Renault,Laguna,https://www.fichacompleta.com.br/carros/renault/laguna/,True
+Renault,Laguna Grand Tour,https://www.fichacompleta.com.br/carros/renault/laguna-grand-tour/,True
+Renault,Laguna Nevada,https://www.fichacompleta.com.br/carros/renault/laguna-nevada/,True
+Renault,Logan,https://www.fichacompleta.com.br/carros/renault/logan/,True
+Renault,Master,https://www.fichacompleta.com.br/carros/renault/master/,True
+Renault,Megane,https://www.fichacompleta.com.br/carros/renault/megane/,True
+Renault,Megane Cabriolet,https://www.fichacompleta.com.br/carros/renault/megane-cabriolet/,True
+Renault,Megane Grand Tour,https://www.fichacompleta.com.br/carros/renault/megane-grand-tour/,True
+Renault,Megane Hatch,https://www.fichacompleta.com.br/carros/renault/megane-hatch/,True
+Renault,Oroch,https://www.fichacompleta.com.br/carros/renault/oroch/,True
+Renault,Sandero,https://www.fichacompleta.com.br/carros/renault/sandero/,True
+Renault,Scenic,https://www.fichacompleta.com.br/carros/renault/scenic/,True
+Renault,Symbol,https://www.fichacompleta.com.br/carros/renault/symbol/,True
+Renault,Trafic,https://www.fichacompleta.com.br/carros/renault/trafic/,True
+Renault,Twingo,https://www.fichacompleta.com.br/carros/renault/twingo/,True
+Renault,Zoe,https://www.fichacompleta.com.br/carros/renault/zoe/,True
+Jaguar,E-pace,https://www.fichacompleta.com.br/carros/jaguar/e-pace/,True
+Jaguar,F-pace,https://www.fichacompleta.com.br/carros/jaguar/f-pace/,True
+Jaguar,F-type,https://www.fichacompleta.com.br/carros/jaguar/f-type/,True
+Jaguar,F-type Roadster,https://www.fichacompleta.com.br/carros/jaguar/f-type-roadster/,True
+Jaguar,I-pace,https://www.fichacompleta.com.br/carros/jaguar/i-pace/,True
+Jaguar,S-type,https://www.fichacompleta.com.br/carros/jaguar/s-type/,True
+Jaguar,X-type,https://www.fichacompleta.com.br/carros/jaguar/x-type/,True
+Jaguar,X-type Estate,https://www.fichacompleta.com.br/carros/jaguar/x-type-estate/,True
+Jaguar,Xe,https://www.fichacompleta.com.br/carros/jaguar/xe/,True
+Jaguar,Xf,https://www.fichacompleta.com.br/carros/jaguar/xf/,True
+Jaguar,Xj,https://www.fichacompleta.com.br/carros/jaguar/xj/,True
+Jaguar,Xj12,https://www.fichacompleta.com.br/carros/jaguar/xj12/,True
+Jaguar,Xj220,https://www.fichacompleta.com.br/carros/jaguar/xj220/,True
+Jaguar,Xj6,https://www.fichacompleta.com.br/carros/jaguar/xj6/,True
+Jaguar,Xj8,https://www.fichacompleta.com.br/carros/jaguar/xj8/,True
+Jaguar,Xk,https://www.fichacompleta.com.br/carros/jaguar/xk/,True
+Lotus,Elan,https://www.fichacompleta.com.br/carros/lotus/elan/,True
+Lotus,Elise,https://www.fichacompleta.com.br/carros/lotus/elise/,True
+Lotus,Esprit,https://www.fichacompleta.com.br/carros/lotus/esprit/,True
+Lotus,Evora,https://www.fichacompleta.com.br/carros/lotus/evora/,True
+Lotus,Exige,https://www.fichacompleta.com.br/carros/lotus/exige/,True
+Chevrolet,A-10,https://www.fichacompleta.com.br/carros/chevrolet/a-10/,True
+Chevrolet,A-20,https://www.fichacompleta.com.br/carros/chevrolet/a-20/,True
+Chevrolet,Agile,https://www.fichacompleta.com.br/carros/chevrolet/agile/,True
+Chevrolet,Astra,https://www.fichacompleta.com.br/carros/chevrolet/astra/,True
+Chevrolet,Astra Sedan,https://www.fichacompleta.com.br/carros/chevrolet/astra-sedan/,True
+Chevrolet,Astra Wagon,https://www.fichacompleta.com.br/carros/chevrolet/astra-wagon/,True
+Chevrolet,Blazer,https://www.fichacompleta.com.br/carros/chevrolet/blazer/,True
+Chevrolet,Bolt,https://www.fichacompleta.com.br/carros/chevrolet/bolt/,True
+Chevrolet,Bolt Euv,https://www.fichacompleta.com.br/carros/chevrolet/bolt-euv/,True
+Chevrolet,Bonanza,https://www.fichacompleta.com.br/carros/chevrolet/bonanza/,True
+Chevrolet,C-10,https://www.fichacompleta.com.br/carros/chevrolet/c-10/,True
+Chevrolet,C-14,https://www.fichacompleta.com.br/carros/chevrolet/c-14/,True
+Chevrolet,C-20,https://www.fichacompleta.com.br/carros/chevrolet/c-20/,True
+Chevrolet,Calibra,https://www.fichacompleta.com.br/carros/chevrolet/calibra/,True
+Chevrolet,Camaro,https://www.fichacompleta.com.br/carros/chevrolet/camaro/,True
+Chevrolet,Camaro Conversível,https://www.fichacompleta.com.br/carros/chevrolet/camaro-conversivel/,True
+Chevrolet,Caprice,https://www.fichacompleta.com.br/carros/chevrolet/caprice/,True
+Chevrolet,Captiva,https://www.fichacompleta.com.br/carros/chevrolet/captiva/,True
+Chevrolet,Caravan,https://www.fichacompleta.com.br/carros/chevrolet/caravan/,True
+Chevrolet,Celta,https://www.fichacompleta.com.br/carros/chevrolet/celta/,True
+Chevrolet,Chevette,https://www.fichacompleta.com.br/carros/chevrolet/chevette/,True
+Chevrolet,Chevette Hatch,https://www.fichacompleta.com.br/carros/chevrolet/chevette-hatch/,True
+Chevrolet,Chevy 500,https://www.fichacompleta.com.br/carros/chevrolet/chevy-500/,True
+Chevrolet,Classic,https://www.fichacompleta.com.br/carros/chevrolet/classic/,True
+Chevrolet,Cobalt,https://www.fichacompleta.com.br/carros/chevrolet/cobalt/,True
+Chevrolet,Corsa,https://www.fichacompleta.com.br/carros/chevrolet/corsa/,True
+Chevrolet,Corsa Picape,https://www.fichacompleta.com.br/carros/chevrolet/corsa-picape/,True
+Chevrolet,Corsa Sedan,https://www.fichacompleta.com.br/carros/chevrolet/corsa-sedan/,True
+Chevrolet,Corsa Wagon,https://www.fichacompleta.com.br/carros/chevrolet/corsa-wagon/,True
+Chevrolet,Corvette,https://www.fichacompleta.com.br/carros/chevrolet/corvette/,True
+Chevrolet,Cruze,https://www.fichacompleta.com.br/carros/chevrolet/cruze/,True
+Chevrolet,Cruze Hatch,https://www.fichacompleta.com.br/carros/chevrolet/cruze-hatch/,True
+Chevrolet,D-10,https://www.fichacompleta.com.br/carros/chevrolet/d-10/,True
+Chevrolet,D-20,https://www.fichacompleta.com.br/carros/chevrolet/d-20/,True
+Chevrolet,Equinox,https://www.fichacompleta.com.br/carros/chevrolet/equinox/,True
+Chevrolet,Grand Blazer,https://www.fichacompleta.com.br/carros/chevrolet/grand-blazer/,True
+Chevrolet,Ipanema,https://www.fichacompleta.com.br/carros/chevrolet/ipanema/,True
+Chevrolet,Joy,https://www.fichacompleta.com.br/carros/chevrolet/joy/,True
+Chevrolet,Joy Sedan,https://www.fichacompleta.com.br/carros/chevrolet/joy-sedan/,True
+Chevrolet,Kadett,https://www.fichacompleta.com.br/carros/chevrolet/kadett/,True
+Chevrolet,Kadett Conversível,https://www.fichacompleta.com.br/carros/chevrolet/kadett-conversivel/,True
+Chevrolet,Lumina,https://www.fichacompleta.com.br/carros/chevrolet/lumina/,True
+Chevrolet,Malibu,https://www.fichacompleta.com.br/carros/chevrolet/malibu/,True
+Chevrolet,Marajó,https://www.fichacompleta.com.br/carros/chevrolet/marajo/,True
+Chevrolet,Meriva,https://www.fichacompleta.com.br/carros/chevrolet/meriva/,True
+Chevrolet,Montana,https://www.fichacompleta.com.br/carros/chevrolet/montana/,True
+Chevrolet,Monza,https://www.fichacompleta.com.br/carros/chevrolet/monza/,True
+Chevrolet,Monza Hatch,https://www.fichacompleta.com.br/carros/chevrolet/monza-hatch/,True
+Chevrolet,Omega,https://www.fichacompleta.com.br/carros/chevrolet/omega/,True
+Chevrolet,Onix,https://www.fichacompleta.com.br/carros/chevrolet/onix/,True
+Chevrolet,Onix Sedan,https://www.fichacompleta.com.br/carros/chevrolet/onix-sedan/,True
+Chevrolet,Opala,https://www.fichacompleta.com.br/carros/chevrolet/opala/,True
+Chevrolet,Opala Coupe,https://www.fichacompleta.com.br/carros/chevrolet/opala-coupe/,True
+Chevrolet,Opala Cupê,https://www.fichacompleta.com.br/carros/chevrolet/opala-cupe/,True
+Chevrolet,Prisma,https://www.fichacompleta.com.br/carros/chevrolet/prisma/,True
+Chevrolet,S10,https://www.fichacompleta.com.br/carros/chevrolet/s10/,True
+Chevrolet,Silverado,https://www.fichacompleta.com.br/carros/chevrolet/silverado/,True
+Chevrolet,Sonic,https://www.fichacompleta.com.br/carros/chevrolet/sonic/,True
+Chevrolet,Sonic Sedan,https://www.fichacompleta.com.br/carros/chevrolet/sonic-sedan/,True
+Chevrolet,Spin,https://www.fichacompleta.com.br/carros/chevrolet/spin/,True
+Chevrolet,Suburban,https://www.fichacompleta.com.br/carros/chevrolet/suburban/,True
+Chevrolet,Suprema,https://www.fichacompleta.com.br/carros/chevrolet/suprema/,True
+Chevrolet,Tahoe,https://www.fichacompleta.com.br/carros/chevrolet/tahoe/,True
+Chevrolet,Tigra,https://www.fichacompleta.com.br/carros/chevrolet/tigra/,True
+Chevrolet,Tracker,https://www.fichacompleta.com.br/carros/chevrolet/tracker/,True
+Chevrolet,Trafic,https://www.fichacompleta.com.br/carros/chevrolet/trafic/,True
+Chevrolet,Trailblazer,https://www.fichacompleta.com.br/carros/chevrolet/trailblazer/,True
+Chevrolet,Vectra,https://www.fichacompleta.com.br/carros/chevrolet/vectra/,True
+Chevrolet,Vectra Hatch,https://www.fichacompleta.com.br/carros/chevrolet/vectra-hatch/,True
+Chevrolet,Veraneio,https://www.fichacompleta.com.br/carros/chevrolet/veraneio/,True
+Chevrolet,Zafira,https://www.fichacompleta.com.br/carros/chevrolet/zafira/,True
+Santa Matilde,Sm,https://www.fichacompleta.com.br/carros/santa-matilde/sm/,True
+Ragge,California,https://www.fichacompleta.com.br/carros/ragge/california/,True
+Lincoln,Town Car,https://www.fichacompleta.com.br/carros/lincoln/town-car/,True
+Rely,Link,https://www.fichacompleta.com.br/carros/rely/link/,True
+Rely,Pick-up,https://www.fichacompleta.com.br/carros/rely/pick-up/,True
+Rely,Van,https://www.fichacompleta.com.br/carros/rely/van/,True
+Gwm,Haval H6,https://www.fichacompleta.com.br/carros/gwm/haval-h6/,True
+Gwm,Haval H6 Gt,https://www.fichacompleta.com.br/carros/gwm/haval-h6-gt/,True
+Mercury,Mystique,https://www.fichacompleta.com.br/carros/mercury/mystique/,True
+Infiniti,Fx35,https://www.fichacompleta.com.br/carros/infiniti/fx35/,True
+Infiniti,Fx50,https://www.fichacompleta.com.br/carros/infiniti/fx50/,True
+Gurgel,Br-800,https://www.fichacompleta.com.br/carros/gurgel/br-800/,True
+Gurgel,Carajas,https://www.fichacompleta.com.br/carros/gurgel/carajas/,True
+Gurgel,Motomachine,https://www.fichacompleta.com.br/carros/gurgel/motomachine/,True
+Gurgel,Supermini,https://www.fichacompleta.com.br/carros/gurgel/supermini/,True
+Gurgel,Tocantins,https://www.fichacompleta.com.br/carros/gurgel/tocantins/,True
+Gurgel,X-12,https://www.fichacompleta.com.br/carros/gurgel/x-12/,True
+Gurgel,Xef,https://www.fichacompleta.com.br/carros/gurgel/xef/,True
+Ariel,Atom,https://www.fichacompleta.com.br/carros/ariel/atom/,True
+Hummer,H2,https://www.fichacompleta.com.br/carros/hummer/h2/,True
+Hummer,H3,https://www.fichacompleta.com.br/carros/hummer/h3/,True
+Hummer,H3t,https://www.fichacompleta.com.br/carros/hummer/h3t/,True
+W Motors,Fenyr Supersport,https://www.fichacompleta.com.br/carros/w-motors/fenyr-supersport/,True
+W Motors,Lykan Hypersport,https://www.fichacompleta.com.br/carros/w-motors/lykan-hypersport/,True
+Ferrari,296,https://www.fichacompleta.com.br/carros/ferrari/296/,True
+Ferrari,348,https://www.fichacompleta.com.br/carros/ferrari/348/,True
+Ferrari,360,https://www.fichacompleta.com.br/carros/ferrari/360/,True
+Ferrari,456,https://www.fichacompleta.com.br/carros/ferrari/456/,True
+Ferrari,458,https://www.fichacompleta.com.br/carros/ferrari/458/,True
+Ferrari,488,https://www.fichacompleta.com.br/carros/ferrari/488/,True
+Ferrari,512,https://www.fichacompleta.com.br/carros/ferrari/512/,True
+Ferrari,550,https://www.fichacompleta.com.br/carros/ferrari/550/,True
+Ferrari,575m,https://www.fichacompleta.com.br/carros/ferrari/575m/,True
+Ferrari,599,https://www.fichacompleta.com.br/carros/ferrari/599/,True
+Ferrari,612,https://www.fichacompleta.com.br/carros/ferrari/612/,True
+Ferrari,812,https://www.fichacompleta.com.br/carros/ferrari/812/,True
+Ferrari,California,https://www.fichacompleta.com.br/carros/ferrari/california/,True
+Ferrari,Enzo,https://www.fichacompleta.com.br/carros/ferrari/enzo/,True
+Ferrari,F12,https://www.fichacompleta.com.br/carros/ferrari/f12/,True
+Ferrari,F355,https://www.fichacompleta.com.br/carros/ferrari/f355/,True
+Ferrari,F40,https://www.fichacompleta.com.br/carros/ferrari/f40/,True
+Ferrari,F430,https://www.fichacompleta.com.br/carros/ferrari/f430/,True
+Ferrari,F50,https://www.fichacompleta.com.br/carros/ferrari/f50/,True
+Ferrari,F8,https://www.fichacompleta.com.br/carros/ferrari/f8/,True
+Ferrari,Ff,https://www.fichacompleta.com.br/carros/ferrari/ff/,True
+Ferrari,Fxx,https://www.fichacompleta.com.br/carros/ferrari/fxx/,True
+Ferrari,Gtc4lusso,https://www.fichacompleta.com.br/carros/ferrari/gtc4lusso/,True
+Ferrari,Laferrari,https://www.fichacompleta.com.br/carros/ferrari/laferrari/,True
+Ferrari,Portofino,https://www.fichacompleta.com.br/carros/ferrari/portofino/,True
+Ferrari,Purosangue,https://www.fichacompleta.com.br/carros/ferrari/purosangue/,True
+Ferrari,Roma,https://www.fichacompleta.com.br/carros/ferrari/roma/,True
+Ferrari,Sf90,https://www.fichacompleta.com.br/carros/ferrari/sf90/,True
+Ferrari,Testarossa,https://www.fichacompleta.com.br/carros/ferrari/testarossa/,True
+Avallone,Tf,https://www.fichacompleta.com.br/carros/avallone/tf/,True
+Kia,Besta,https://www.fichacompleta.com.br/carros/kia/besta/,True
+Kia,Bongo,https://www.fichacompleta.com.br/carros/kia/bongo/,True
+Kia,Cadenza,https://www.fichacompleta.com.br/carros/kia/cadenza/,True
+Kia,Carens,https://www.fichacompleta.com.br/carros/kia/carens/,True
+Kia,Carnival,https://www.fichacompleta.com.br/carros/kia/carnival/,True
+Kia,Cerato,https://www.fichacompleta.com.br/carros/kia/cerato/,True
+Kia,Ceres,https://www.fichacompleta.com.br/carros/kia/ceres/,True
+Kia,Clarus,https://www.fichacompleta.com.br/carros/kia/clarus/,True
+Kia,Koup,https://www.fichacompleta.com.br/carros/kia/koup/,True
+Kia,Magentis,https://www.fichacompleta.com.br/carros/kia/magentis/,True
+Kia,Mohave,https://www.fichacompleta.com.br/carros/kia/mohave/,True
+Kia,Niro,https://www.fichacompleta.com.br/carros/kia/niro/,True
+Kia,Opirus,https://www.fichacompleta.com.br/carros/kia/opirus/,True
+Kia,Optima,https://www.fichacompleta.com.br/carros/kia/optima/,True
+Kia,Picanto,https://www.fichacompleta.com.br/carros/kia/picanto/,True
+Kia,Quoris,https://www.fichacompleta.com.br/carros/kia/quoris/,True
+Kia,Rio,https://www.fichacompleta.com.br/carros/kia/rio/,True
+Kia,Sephia,https://www.fichacompleta.com.br/carros/kia/sephia/,True
+Kia,Shuma,https://www.fichacompleta.com.br/carros/kia/shuma/,True
+Kia,Sorento,https://www.fichacompleta.com.br/carros/kia/sorento/,True
+Kia,Soul,https://www.fichacompleta.com.br/carros/kia/soul/,True
+Kia,Sportage,https://www.fichacompleta.com.br/carros/kia/sportage/,True
+Kia,Stinger,https://www.fichacompleta.com.br/carros/kia/stinger/,True
+Kia,Stonic,https://www.fichacompleta.com.br/carros/kia/stonic/,True
+Miura,Mts,https://www.fichacompleta.com.br/carros/miura/mts/,True
+Miura,Saga,https://www.fichacompleta.com.br/carros/miura/saga/,True
+Miura,Spider,https://www.fichacompleta.com.br/carros/miura/spider/,True
+Miura,Targa,https://www.fichacompleta.com.br/carros/miura/targa/,True
+Miura,Top Sport,https://www.fichacompleta.com.br/carros/miura/top-sport/,True
+Miura,X11,https://www.fichacompleta.com.br/carros/miura/x11/,True
+Miura,X8,https://www.fichacompleta.com.br/carros/miura/x8/,True
+Bentley,Bentayga,https://www.fichacompleta.com.br/carros/bentley/bentayga/,True
+Bentley,Continental,https://www.fichacompleta.com.br/carros/bentley/continental/,True
+Bentley,Flying Spur,https://www.fichacompleta.com.br/carros/bentley/flying-spur/,True
+Bentley,Mulsanne,https://www.fichacompleta.com.br/carros/bentley/mulsanne/,True
+Porsche,911,https://www.fichacompleta.com.br/carros/porsche/911/,True
+Porsche,911 Cabriolet,https://www.fichacompleta.com.br/carros/porsche/911-cabriolet/,True
+Porsche,911 Targa,https://www.fichacompleta.com.br/carros/porsche/911-targa/,True
+Porsche,918,https://www.fichacompleta.com.br/carros/porsche/918/,True
+Porsche,928,https://www.fichacompleta.com.br/carros/porsche/928/,True
+Porsche,959,https://www.fichacompleta.com.br/carros/porsche/959/,True
+Porsche,968,https://www.fichacompleta.com.br/carros/porsche/968/,True
+Porsche,Boxster,https://www.fichacompleta.com.br/carros/porsche/boxster/,True
+Porsche,Carrera Gt,https://www.fichacompleta.com.br/carros/porsche/carrera-gt/,True
+Porsche,Cayenne,https://www.fichacompleta.com.br/carros/porsche/cayenne/,True
+Porsche,Cayenne Coupe,https://www.fichacompleta.com.br/carros/porsche/cayenne-coupe/,True
+Porsche,Cayman,https://www.fichacompleta.com.br/carros/porsche/cayman/,True
+Porsche,Macan,https://www.fichacompleta.com.br/carros/porsche/macan/,True
+Porsche,Panamera,https://www.fichacompleta.com.br/carros/porsche/panamera/,True
+Porsche,Panamera Sport Turismo,https://www.fichacompleta.com.br/carros/porsche/panamera-sport-turismo/,True
+Porsche,Taycan,https://www.fichacompleta.com.br/carros/porsche/taycan/,True
+Porsche,Taycan Cross Turismo,https://www.fichacompleta.com.br/carros/porsche/taycan-cross-turismo/,True
+Lifan,320,https://www.fichacompleta.com.br/carros/lifan/320/,True
+Lifan,530,https://www.fichacompleta.com.br/carros/lifan/530/,True
+Lifan,620,https://www.fichacompleta.com.br/carros/lifan/620/,True
+Lifan,Foison,https://www.fichacompleta.com.br/carros/lifan/foison/,True
+Lifan,X60,https://www.fichacompleta.com.br/carros/lifan/x60/,True
+Lifan,X80,https://www.fichacompleta.com.br/carros/lifan/x80/,True
+Ford,Aerostar,https://www.fichacompleta.com.br/carros/ford/aerostar/,True
+Ford,Belina,https://www.fichacompleta.com.br/carros/ford/belina/,True
+Ford,Bronco Sport,https://www.fichacompleta.com.br/carros/ford/bronco-sport/,True
+Ford,Corcel,https://www.fichacompleta.com.br/carros/ford/corcel/,True
+Ford,Corcel Sedan,https://www.fichacompleta.com.br/carros/ford/corcel-sedan/,True
+Ford,Courier,https://www.fichacompleta.com.br/carros/ford/courier/,True
+Ford,Crown Victoria,https://www.fichacompleta.com.br/carros/ford/crown-victoria/,True
+Ford,Del Rey,https://www.fichacompleta.com.br/carros/ford/del-rey/,True
+Ford,Ecosport,https://www.fichacompleta.com.br/carros/ford/ecosport/,True
+Ford,Edge,https://www.fichacompleta.com.br/carros/ford/edge/,True
+Ford,Escort,https://www.fichacompleta.com.br/carros/ford/escort/,True
+Ford,Escort Conversível,https://www.fichacompleta.com.br/carros/ford/escort-conversivel/,True
+Ford,Escort Sedan,https://www.fichacompleta.com.br/carros/ford/escort-sedan/,True
+Ford,Escort Sw,https://www.fichacompleta.com.br/carros/ford/escort-sw/,True
+Ford,Expedition,https://www.fichacompleta.com.br/carros/ford/expedition/,True
+Ford,Explorer,https://www.fichacompleta.com.br/carros/ford/explorer/,True
+Ford,F-100,https://www.fichacompleta.com.br/carros/ford/f-100/,True
+Ford,F-1000,https://www.fichacompleta.com.br/carros/ford/f-1000/,True
+Ford,F-150,https://www.fichacompleta.com.br/carros/ford/f-150/,True
+Ford,F-250,https://www.fichacompleta.com.br/carros/ford/f-250/,True
+Ford,F-75,https://www.fichacompleta.com.br/carros/ford/f-75/,True
+Ford,Fiesta,https://www.fichacompleta.com.br/carros/ford/fiesta/,True
+Ford,Fiesta Sedan,https://www.fichacompleta.com.br/carros/ford/fiesta-sedan/,True
+Ford,Focus,https://www.fichacompleta.com.br/carros/ford/focus/,True
+Ford,Focus Sedan,https://www.fichacompleta.com.br/carros/ford/focus-sedan/,True
+Ford,Fusion,https://www.fichacompleta.com.br/carros/ford/fusion/,True
+Ford,Galaxie,https://www.fichacompleta.com.br/carros/ford/galaxie/,True
+Ford,Gt,https://www.fichacompleta.com.br/carros/ford/gt/,True
+Ford,Jeep,https://www.fichacompleta.com.br/carros/ford/jeep/,True
+Ford,Ka,https://www.fichacompleta.com.br/carros/ford/ka/,True
+Ford,Ka Sedan,https://www.fichacompleta.com.br/carros/ford/ka-sedan/,True
+Ford,Maverick,https://www.fichacompleta.com.br/carros/ford/maverick/,True
+Ford,Maverick Picape,https://www.fichacompleta.com.br/carros/ford/maverick-picape/,True
+Ford,Maverick Sedan,https://www.fichacompleta.com.br/carros/ford/maverick-sedan/,True
+Ford,Mondeo,https://www.fichacompleta.com.br/carros/ford/mondeo/,True
+Ford,Mondeo Sw,https://www.fichacompleta.com.br/carros/ford/mondeo-sw/,True
+Ford,Mustang,https://www.fichacompleta.com.br/carros/ford/mustang/,True
+Ford,Mustang Conversível,https://www.fichacompleta.com.br/carros/ford/mustang-conversivel/,True
+Ford,Pampa,https://www.fichacompleta.com.br/carros/ford/pampa/,True
+Ford,Probe,https://www.fichacompleta.com.br/carros/ford/probe/,True
+Ford,Ranger,https://www.fichacompleta.com.br/carros/ford/ranger/,True
+Ford,Royale,https://www.fichacompleta.com.br/carros/ford/royale/,True
+Ford,Rural,https://www.fichacompleta.com.br/carros/ford/rural/,True
+Ford,Taurus,https://www.fichacompleta.com.br/carros/ford/taurus/,True
+Ford,Territory,https://www.fichacompleta.com.br/carros/ford/territory/,True
+Ford,Thunderbird,https://www.fichacompleta.com.br/carros/ford/thunderbird/,True
+Ford,Transit,https://www.fichacompleta.com.br/carros/ford/transit/,True
+Ford,Verona,https://www.fichacompleta.com.br/carros/ford/verona/,True
+Ford,Versailles,https://www.fichacompleta.com.br/carros/ford/versailles/,True
+Ford,Windstar,https://www.fichacompleta.com.br/carros/ford/windstar/,True
+Bmw,116i,https://www.fichacompleta.com.br/carros/bmw/116i/,True
+Bmw,118i,https://www.fichacompleta.com.br/carros/bmw/118i/,True
+Bmw,120i,https://www.fichacompleta.com.br/carros/bmw/120i/,True
+Bmw,120i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/120i-cabriolet/,True
+Bmw,125i,https://www.fichacompleta.com.br/carros/bmw/125i/,True
+Bmw,130i,https://www.fichacompleta.com.br/carros/bmw/130i/,True
+Bmw,135i,https://www.fichacompleta.com.br/carros/bmw/135i/,True
+Bmw,135i Coupe,https://www.fichacompleta.com.br/carros/bmw/135i-coupe/,True
+Bmw,140i,https://www.fichacompleta.com.br/carros/bmw/140i/,True
+Bmw,218i,https://www.fichacompleta.com.br/carros/bmw/218i/,True
+Bmw,220i Active Tourer,https://www.fichacompleta.com.br/carros/bmw/220i-active-tourer/,True
+Bmw,225i Active Tourer,https://www.fichacompleta.com.br/carros/bmw/225i-active-tourer/,True
+Bmw,235i,https://www.fichacompleta.com.br/carros/bmw/235i/,True
+Bmw,235i Coupe,https://www.fichacompleta.com.br/carros/bmw/235i-coupe/,True
+Bmw,240i,https://www.fichacompleta.com.br/carros/bmw/240i/,True
+Bmw,316i,https://www.fichacompleta.com.br/carros/bmw/316i/,True
+Bmw,318i,https://www.fichacompleta.com.br/carros/bmw/318i/,True
+Bmw,318i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/318i-cabriolet/,True
+Bmw,318ti,https://www.fichacompleta.com.br/carros/bmw/318ti/,True
+Bmw,320i,https://www.fichacompleta.com.br/carros/bmw/320i/,True
+Bmw,320i Gt,https://www.fichacompleta.com.br/carros/bmw/320i-gt/,True
+Bmw,323i,https://www.fichacompleta.com.br/carros/bmw/323i/,True
+Bmw,323i Coupe,https://www.fichacompleta.com.br/carros/bmw/323i-coupe/,True
+Bmw,323i Touring,https://www.fichacompleta.com.br/carros/bmw/323i-touring/,True
+Bmw,323ti,https://www.fichacompleta.com.br/carros/bmw/323ti/,True
+Bmw,325i,https://www.fichacompleta.com.br/carros/bmw/325i/,True
+Bmw,325i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/325i-cabriolet/,True
+Bmw,325i Coupe,https://www.fichacompleta.com.br/carros/bmw/325i-coupe/,True
+Bmw,325i Touring,https://www.fichacompleta.com.br/carros/bmw/325i-touring/,True
+Bmw,328i,https://www.fichacompleta.com.br/carros/bmw/328i/,True
+Bmw,328i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/328i-cabriolet/,True
+Bmw,328i Gt,https://www.fichacompleta.com.br/carros/bmw/328i-gt/,True
+Bmw,328i Touring,https://www.fichacompleta.com.br/carros/bmw/328i-touring/,True
+Bmw,330e,https://www.fichacompleta.com.br/carros/bmw/330e/,True
+Bmw,330i,https://www.fichacompleta.com.br/carros/bmw/330i/,True
+Bmw,330i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/330i-cabriolet/,True
+Bmw,335i,https://www.fichacompleta.com.br/carros/bmw/335i/,True
+Bmw,335i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/335i-cabriolet/,True
+Bmw,340i,https://www.fichacompleta.com.br/carros/bmw/340i/,True
+Bmw,420i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/420i-cabriolet/,True
+Bmw,428i,https://www.fichacompleta.com.br/carros/bmw/428i/,True
+Bmw,428i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/428i-cabriolet/,True
+Bmw,430i,https://www.fichacompleta.com.br/carros/bmw/430i/,True
+Bmw,430i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/430i-cabriolet/,True
+Bmw,435i,https://www.fichacompleta.com.br/carros/bmw/435i/,True
+Bmw,440i,https://www.fichacompleta.com.br/carros/bmw/440i/,True
+Bmw,520i,https://www.fichacompleta.com.br/carros/bmw/520i/,True
+Bmw,525i,https://www.fichacompleta.com.br/carros/bmw/525i/,True
+Bmw,525i Touring,https://www.fichacompleta.com.br/carros/bmw/525i-touring/,True
+Bmw,528i,https://www.fichacompleta.com.br/carros/bmw/528i/,True
+Bmw,528i Touring,https://www.fichacompleta.com.br/carros/bmw/528i-touring/,True
+Bmw,530e,https://www.fichacompleta.com.br/carros/bmw/530e/,True
+Bmw,530i,https://www.fichacompleta.com.br/carros/bmw/530i/,True
+Bmw,530i Touring,https://www.fichacompleta.com.br/carros/bmw/530i-touring/,True
+Bmw,535i,https://www.fichacompleta.com.br/carros/bmw/535i/,True
+Bmw,535i Gt,https://www.fichacompleta.com.br/carros/bmw/535i-gt/,True
+Bmw,540i,https://www.fichacompleta.com.br/carros/bmw/540i/,True
+Bmw,540i Touring,https://www.fichacompleta.com.br/carros/bmw/540i-touring/,True
+Bmw,545i,https://www.fichacompleta.com.br/carros/bmw/545i/,True
+Bmw,550i,https://www.fichacompleta.com.br/carros/bmw/550i/,True
+Bmw,640i,https://www.fichacompleta.com.br/carros/bmw/640i/,True
+Bmw,645ci,https://www.fichacompleta.com.br/carros/bmw/645ci/,True
+Bmw,645ci Cabriolet,https://www.fichacompleta.com.br/carros/bmw/645ci-cabriolet/,True
+Bmw,650i,https://www.fichacompleta.com.br/carros/bmw/650i/,True
+Bmw,650i Cabriolet,https://www.fichacompleta.com.br/carros/bmw/650i-cabriolet/,True
+Bmw,650i Coupe,https://www.fichacompleta.com.br/carros/bmw/650i-coupe/,True
+Bmw,735i,https://www.fichacompleta.com.br/carros/bmw/735i/,True
+Bmw,740i,https://www.fichacompleta.com.br/carros/bmw/740i/,True
+Bmw,745e,https://www.fichacompleta.com.br/carros/bmw/745e/,True
+Bmw,745i,https://www.fichacompleta.com.br/carros/bmw/745i/,True
+Bmw,750i,https://www.fichacompleta.com.br/carros/bmw/750i/,True
+Bmw,760i,https://www.fichacompleta.com.br/carros/bmw/760i/,True
+Bmw,840ci,https://www.fichacompleta.com.br/carros/bmw/840ci/,True
+Bmw,850ci,https://www.fichacompleta.com.br/carros/bmw/850ci/,True
+Bmw,850csi,https://www.fichacompleta.com.br/carros/bmw/850csi/,True
+Bmw,850i,https://www.fichacompleta.com.br/carros/bmw/850i/,True
+Bmw,I3,https://www.fichacompleta.com.br/carros/bmw/i3/,True
+Bmw,I4,https://www.fichacompleta.com.br/carros/bmw/i4/,True
+Bmw,I8,https://www.fichacompleta.com.br/carros/bmw/i8/,True
+Bmw,Ix,https://www.fichacompleta.com.br/carros/bmw/ix/,True
+Bmw,Ix3,https://www.fichacompleta.com.br/carros/bmw/ix3/,True
+Bmw,M1,https://www.fichacompleta.com.br/carros/bmw/m1/,True
+Bmw,M2,https://www.fichacompleta.com.br/carros/bmw/m2/,True
+Bmw,M3,https://www.fichacompleta.com.br/carros/bmw/m3/,True
+Bmw,M3 Cabriolet,https://www.fichacompleta.com.br/carros/bmw/m3-cabriolet/,True
+Bmw,M4,https://www.fichacompleta.com.br/carros/bmw/m4/,True
+Bmw,M4 Cabriolet,https://www.fichacompleta.com.br/carros/bmw/m4-cabriolet/,True
+Bmw,M5,https://www.fichacompleta.com.br/carros/bmw/m5/,True
+Bmw,M6,https://www.fichacompleta.com.br/carros/bmw/m6/,True
+Bmw,M6 Coupe,https://www.fichacompleta.com.br/carros/bmw/m6-coupe/,True
+Bmw,M8,https://www.fichacompleta.com.br/carros/bmw/m8/,True
+Bmw,X1,https://www.fichacompleta.com.br/carros/bmw/x1/,True
+Bmw,X2,https://www.fichacompleta.com.br/carros/bmw/x2/,True
+Bmw,X3,https://www.fichacompleta.com.br/carros/bmw/x3/,True
+Bmw,X4,https://www.fichacompleta.com.br/carros/bmw/x4/,True
+Bmw,X5,https://www.fichacompleta.com.br/carros/bmw/x5/,True
+Bmw,X6,https://www.fichacompleta.com.br/carros/bmw/x6/,True
+Bmw,X7,https://www.fichacompleta.com.br/carros/bmw/x7/,True
+Bmw,Z1,https://www.fichacompleta.com.br/carros/bmw/z1/,True
+Bmw,Z3,https://www.fichacompleta.com.br/carros/bmw/z3/,True
+Bmw,Z4,https://www.fichacompleta.com.br/carros/bmw/z4/,True
+Bmw,Z8,https://www.fichacompleta.com.br/carros/bmw/z8/,True
