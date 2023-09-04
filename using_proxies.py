@@ -31,7 +31,7 @@ proxyDict = {
 def test(p):
     global proxyDict
 
-    if(p != ''):
+    if (p != ''):
         proxyDict['http'] = p
         proxyDict['https'] = p
         r = requests.get("http://ipinfo.io/json", timeout=3, proxies=proxyDict)
@@ -82,18 +82,27 @@ def set_timer():
             Timer.short_break_max = 60
             Timer.long_break_min = 30
             Timer.long_break_max = 60
-
         else:
-            print('timer situação >10')
-            Timer.take_long_time_min = 40
-            Timer.take_long_time_max = 50
-            Timer.short_break_min = 5
-            Timer.short_break_max = 30
-            Timer.long_break_min = 10
-            Timer.long_break_max = 30
+            if n_proxies <= 20:
+                print('timer situação <= 20')
+                Timer.take_long_time_min = 40
+                Timer.take_long_time_max = 50
+                Timer.short_break_min = 5
+                Timer.short_break_max = 30
+                Timer.long_break_min = 10
+                Timer.long_break_max = 30
+
+            else:
+                print('timer situação >20')
+                Timer.take_long_time_min = 100
+                Timer.take_long_time_max = 200
+                Timer.short_break_min = 1
+                Timer.short_break_max = 5
+                Timer.long_break_min = 1
+                Timer.long_break_max = 2
 
 
-while(end - start <= 60*60):
+while (end - start <= 60*60):
     refresh_proxy_list()
     set_timer()
     try:
@@ -103,7 +112,7 @@ while(end - start <= 60*60):
         p = ''
     try:
         # target function
-        #r = test(p)
+        # r = test(p)
         r = wc.WebScraping(p)
     except:
         print('Target function fail')

@@ -12,8 +12,8 @@ my_keys = My_Keys()
 
 
 # use youur keys here
-http_proxy = my_keys.PacketStream_2
-https_proxy = my_keys.PacketStream_2
+http_proxy = my_keys.PacketStream
+https_proxy = my_keys.PacketStream
 
 proxyDict = {
     "http": http_proxy,
